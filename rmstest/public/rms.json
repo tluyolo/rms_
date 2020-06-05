@@ -1,0 +1,8372 @@
+[
+  {
+    "﻿Serial": "",
+    "ReadingDateTimeUTC": "17/04/2020 15:00",
+    "WH": "27328153",
+    "VARH": "6264197"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 15:30",
+    "WH": "27328261",
+    "VARH": "6264220"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 16:00",
+    "WH": "27328344",
+    "VARH": "6264234"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 16:30",
+    "WH": "27328420",
+    "VARH": "6264247"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 17:00",
+    "WH": "27328496",
+    "VARH": "6264261"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 17:30",
+    "WH": "27328572",
+    "VARH": "6264275"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 18:00",
+    "WH": "27328646",
+    "VARH": "6264289"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 18:30",
+    "WH": "27328721",
+    "VARH": "6264303"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 19:00",
+    "WH": "27328795",
+    "VARH": "6264316"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 19:30",
+    "WH": "27328869",
+    "VARH": "6264329"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 20:00",
+    "WH": "27328944",
+    "VARH": "6264341"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 20:30",
+    "WH": "27329019",
+    "VARH": "6264352"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 21:00",
+    "WH": "27329095",
+    "VARH": "6264366"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 21:30",
+    "WH": "27329170",
+    "VARH": "6264377"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 22:00",
+    "WH": "27329244",
+    "VARH": "6264387"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 22:30",
+    "WH": "27329318",
+    "VARH": "6264399"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 23:00",
+    "WH": "27329394",
+    "VARH": "6264413"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "17/04/2020 23:30",
+    "WH": "27329469",
+    "VARH": "6264427"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 00:00",
+    "WH": "27329543",
+    "VARH": "6264442"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 00:30",
+    "WH": "27329617",
+    "VARH": "6264455"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 01:00",
+    "WH": "27329692",
+    "VARH": "6264468"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 01:30",
+    "WH": "27329766",
+    "VARH": "6264480"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 02:00",
+    "WH": "27329840",
+    "VARH": "6264496"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 02:30",
+    "WH": "27329913",
+    "VARH": "6264512"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 03:00",
+    "WH": "27329985",
+    "VARH": "6264523"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 03:30",
+    "WH": "27330058",
+    "VARH": "6264534"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 04:00",
+    "WH": "27330131",
+    "VARH": "6264548"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 04:30",
+    "WH": "27330202",
+    "VARH": "6264563"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 05:00",
+    "WH": "27330275",
+    "VARH": "6264577"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 05:30",
+    "WH": "27330351",
+    "VARH": "6264595"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 06:00",
+    "WH": "27330440",
+    "VARH": "6264616"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 06:30",
+    "WH": "27330560",
+    "VARH": "6264643"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 07:00",
+    "WH": "27330684",
+    "VARH": "6264671"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 07:30",
+    "WH": "27330806",
+    "VARH": "6264700"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 08:00",
+    "WH": "27330927",
+    "VARH": "6264730"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 08:30",
+    "WH": "27331044",
+    "VARH": "6264758"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 09:00",
+    "WH": "27331159",
+    "VARH": "6264786"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 09:30",
+    "WH": "27331275",
+    "VARH": "6264811"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 10:00",
+    "WH": "27331388",
+    "VARH": "6264835"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 10:30",
+    "WH": "27331494",
+    "VARH": "6264863"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 11:00",
+    "WH": "27331600",
+    "VARH": "6264889"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 11:30",
+    "WH": "27331706",
+    "VARH": "6264917"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 12:00",
+    "WH": "27331810",
+    "VARH": "6264947"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 12:30",
+    "WH": "27331911",
+    "VARH": "6264977"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 13:00",
+    "WH": "27332010",
+    "VARH": "6265006"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 13:30",
+    "WH": "27332107",
+    "VARH": "6265034"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 14:00",
+    "WH": "27332204",
+    "VARH": "6265063"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 14:30",
+    "WH": "27332303",
+    "VARH": "6265093"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 15:00",
+    "WH": "27332397",
+    "VARH": "6265113"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 15:30",
+    "WH": "27332486",
+    "VARH": "6265126"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 16:00",
+    "WH": "27332564",
+    "VARH": "6265135"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 16:30",
+    "WH": "27332642",
+    "VARH": "6265148"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 17:00",
+    "WH": "27332719",
+    "VARH": "6265163"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 17:30",
+    "WH": "27332796",
+    "VARH": "6265179"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 18:00",
+    "WH": "27332872",
+    "VARH": "6265195"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 18:30",
+    "WH": "27332949",
+    "VARH": "6265212"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 19:00",
+    "WH": "27333026",
+    "VARH": "6265228"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 19:30",
+    "WH": "27333101",
+    "VARH": "6265244"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 20:00",
+    "WH": "27333177",
+    "VARH": "6265258"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 20:30",
+    "WH": "27333252",
+    "VARH": "6265273"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 21:00",
+    "WH": "27333328",
+    "VARH": "6265286"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 21:30",
+    "WH": "27333405",
+    "VARH": "6265296"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 22:00",
+    "WH": "27333480",
+    "VARH": "6265307"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 22:30",
+    "WH": "27333556",
+    "VARH": "6265322"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 23:00",
+    "WH": "27333632",
+    "VARH": "6265338"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "18/04/2020 23:30",
+    "WH": "27333709",
+    "VARH": "6265355"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 00:00",
+    "WH": "27333784",
+    "VARH": "6265372"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 00:30",
+    "WH": "27333859",
+    "VARH": "6265388"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 01:00",
+    "WH": "27333935",
+    "VARH": "6265404"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 01:30",
+    "WH": "27334010",
+    "VARH": "6265420"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 02:00",
+    "WH": "27334083",
+    "VARH": "6265434"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 02:30",
+    "WH": "27334158",
+    "VARH": "6265449"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 03:00",
+    "WH": "27334231",
+    "VARH": "6265462"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 03:30",
+    "WH": "27334305",
+    "VARH": "6265476"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 04:00",
+    "WH": "27334380",
+    "VARH": "6265493"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 04:30",
+    "WH": "27334454",
+    "VARH": "6265509"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 05:00",
+    "WH": "27334528",
+    "VARH": "6265525"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 05:30",
+    "WH": "27334604",
+    "VARH": "6265543"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 06:00",
+    "WH": "27334690",
+    "VARH": "6265567"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 06:30",
+    "WH": "27334775",
+    "VARH": "6265593"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 07:00",
+    "WH": "27334863",
+    "VARH": "6265619"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 07:30",
+    "WH": "27334962",
+    "VARH": "6265648"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 08:00",
+    "WH": "27335060",
+    "VARH": "6265678"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 08:30",
+    "WH": "27335158",
+    "VARH": "6265709"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 09:00",
+    "WH": "27335256",
+    "VARH": "6265738"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 09:30",
+    "WH": "27335354",
+    "VARH": "6265764"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 10:00",
+    "WH": "27335452",
+    "VARH": "6265793"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 10:30",
+    "WH": "27335551",
+    "VARH": "6265823"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 11:00",
+    "WH": "27335644",
+    "VARH": "6265848"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 11:30",
+    "WH": "27335733",
+    "VARH": "6265869"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 12:00",
+    "WH": "27335821",
+    "VARH": "6265885"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 12:30",
+    "WH": "27335908",
+    "VARH": "6265901"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 13:00",
+    "WH": "27335985",
+    "VARH": "6265917"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 13:30",
+    "WH": "27336063",
+    "VARH": "6265933"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 14:00",
+    "WH": "27336140",
+    "VARH": "6265949"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 14:30",
+    "WH": "27336219",
+    "VARH": "6265966"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 15:00",
+    "WH": "27336296",
+    "VARH": "6265977"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 15:30",
+    "WH": "27336372",
+    "VARH": "6265987"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 16:00",
+    "WH": "27336449",
+    "VARH": "6265996"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 16:30",
+    "WH": "27336526",
+    "VARH": "6266011"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 17:00",
+    "WH": "27336603",
+    "VARH": "6266023"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 17:30",
+    "WH": "27336679",
+    "VARH": "6266036"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 18:00",
+    "WH": "27336756",
+    "VARH": "6266052"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 18:30",
+    "WH": "27336832",
+    "VARH": "6266069"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 19:00",
+    "WH": "27336909",
+    "VARH": "6266086"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 19:30",
+    "WH": "27336985",
+    "VARH": "6266102"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 20:00",
+    "WH": "27337061",
+    "VARH": "6266117"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 20:30",
+    "WH": "27337137",
+    "VARH": "6266133"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 21:00",
+    "WH": "27337213",
+    "VARH": "6266149"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 21:30",
+    "WH": "27337288",
+    "VARH": "6266161"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 22:00",
+    "WH": "27337364",
+    "VARH": "6266169"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 22:30",
+    "WH": "27337440",
+    "VARH": "6266181"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 23:00",
+    "WH": "27337517",
+    "VARH": "6266198"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "19/04/2020 23:30",
+    "WH": "27337593",
+    "VARH": "6266214"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "20/04/2020 00:00",
+    "WH": "27337670",
+    "VARH": "6266231"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "20/04/2020 00:30",
+    "WH": "27337745",
+    "VARH": "6266247"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "20/04/2020 01:00",
+    "WH": "27337820",
+    "VARH": "6266263"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "20/04/2020 01:30",
+    "WH": "27337895",
+    "VARH": "6266279"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "20/04/2020 02:00",
+    "WH": "27337968",
+    "VARH": "6266296"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "20/04/2020 02:30",
+    "WH": "27338042",
+    "VARH": "6266312"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "20/04/2020 03:00",
+    "WH": "27338115",
+    "VARH": "6266321"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "20/04/2020 03:30",
+    "WH": "27338189",
+    "VARH": "6266332"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "20/04/2020 04:00",
+    "WH": "27338263",
+    "VARH": "6266348"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "20/04/2020 04:30",
+    "WH": "27338337",
+    "VARH": "6266364"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "20/04/2020 05:00",
+    "WH": "27338412",
+    "VARH": "6266380"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "20/04/2020 05:30",
+    "WH": "27338489",
+    "VARH": "6266399"
+  },
+  {
+    "﻿Serial": "METER000001",
+    "ReadingDateTimeUTC": "20/04/2020 06:00",
+    "WH": "27338584",
+    "VARH": "6266426"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "21/03/2020 22:30",
+    "WH": "31508111",
+    "VARH": "8899118"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "21/03/2020 23:00",
+    "WH": "31508284",
+    "VARH": "8899174"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "21/03/2020 23:30",
+    "WH": "31508451",
+    "VARH": "8899225"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 00:00",
+    "WH": "31508624",
+    "VARH": "8899280"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 00:30",
+    "WH": "31508800",
+    "VARH": "8899329"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 01:00",
+    "WH": "31508977",
+    "VARH": "8899385"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 01:30",
+    "WH": "31509148",
+    "VARH": "8899437"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 02:00",
+    "WH": "31509318",
+    "VARH": "8899492"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 02:30",
+    "WH": "31509491",
+    "VARH": "8899549"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 03:00",
+    "WH": "31509668",
+    "VARH": "8899609"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 03:30",
+    "WH": "31509837",
+    "VARH": "8899670"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 04:00",
+    "WH": "31510010",
+    "VARH": "8899720"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 04:30",
+    "WH": "31510313",
+    "VARH": "8899754"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 05:00",
+    "WH": "31510601",
+    "VARH": "8899785"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 05:30",
+    "WH": "31510895",
+    "VARH": "8899820"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 06:00",
+    "WH": "31511171",
+    "VARH": "8899859"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 06:30",
+    "WH": "31511466",
+    "VARH": "8899917"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 07:00",
+    "WH": "31511797",
+    "VARH": "8899990"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 07:30",
+    "WH": "31512143",
+    "VARH": "8900075"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 08:00",
+    "WH": "31512491",
+    "VARH": "8900161"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 08:30",
+    "WH": "31512858",
+    "VARH": "8900240"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 09:00",
+    "WH": "31513228",
+    "VARH": "8900325"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 09:30",
+    "WH": "31513592",
+    "VARH": "8900414"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 10:00",
+    "WH": "31513950",
+    "VARH": "8900501"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 10:30",
+    "WH": "31514287",
+    "VARH": "8900583"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 11:00",
+    "WH": "31514634",
+    "VARH": "8900662"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 11:30",
+    "WH": "31514974",
+    "VARH": "8900747"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 12:00",
+    "WH": "31515299",
+    "VARH": "8900815"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 12:30",
+    "WH": "31515599",
+    "VARH": "8900880"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 13:00",
+    "WH": "31515891",
+    "VARH": "8900941"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 13:30",
+    "WH": "31516149",
+    "VARH": "8901004"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 14:00",
+    "WH": "31516376",
+    "VARH": "8901062"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 14:30",
+    "WH": "31516595",
+    "VARH": "8901116"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 15:00",
+    "WH": "31516802",
+    "VARH": "8901160"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 15:30",
+    "WH": "31516998",
+    "VARH": "8901225"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 16:00",
+    "WH": "31517178",
+    "VARH": "8901292"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 16:30",
+    "WH": "31517357",
+    "VARH": "8901359"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 17:00",
+    "WH": "31517532",
+    "VARH": "8901417"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 17:30",
+    "WH": "31517702",
+    "VARH": "8901467"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 18:00",
+    "WH": "31517879",
+    "VARH": "8901522"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 18:30",
+    "WH": "31518054",
+    "VARH": "8901572"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 19:00",
+    "WH": "31518229",
+    "VARH": "8901624"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 19:30",
+    "WH": "31518401",
+    "VARH": "8901676"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 20:00",
+    "WH": "31518574",
+    "VARH": "8901736"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 20:30",
+    "WH": "31518745",
+    "VARH": "8901790"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 21:00",
+    "WH": "31518920",
+    "VARH": "8901845"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 21:30",
+    "WH": "31519092",
+    "VARH": "8901909"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 22:00",
+    "WH": "31519260",
+    "VARH": "8901972"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 22:30",
+    "WH": "31519427",
+    "VARH": "8902029"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 23:00",
+    "WH": "31519595",
+    "VARH": "8902080"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "22/03/2020 23:30",
+    "WH": "31519762",
+    "VARH": "8902131"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 00:00",
+    "WH": "31519932",
+    "VARH": "8902178"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 00:30",
+    "WH": "31520102",
+    "VARH": "8902226"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 01:00",
+    "WH": "31520273",
+    "VARH": "8902280"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 01:30",
+    "WH": "31520440",
+    "VARH": "8902328"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 02:00",
+    "WH": "31520609",
+    "VARH": "8902383"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 02:30",
+    "WH": "31520777",
+    "VARH": "8902435"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 03:00",
+    "WH": "31520949",
+    "VARH": "8902487"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 03:30",
+    "WH": "31521116",
+    "VARH": "8902546"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 04:00",
+    "WH": "31521313",
+    "VARH": "8902589"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 04:30",
+    "WH": "31521575",
+    "VARH": "8902620"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 05:00",
+    "WH": "31521852",
+    "VARH": "8902650"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 05:30",
+    "WH": "31522134",
+    "VARH": "8902686"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 06:00",
+    "WH": "31522418",
+    "VARH": "8902731"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 06:30",
+    "WH": "31522738",
+    "VARH": "8902790"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 07:00",
+    "WH": "31523073",
+    "VARH": "8902875"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 07:30",
+    "WH": "31523411",
+    "VARH": "8902955"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 08:00",
+    "WH": "31523770",
+    "VARH": "8903040"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 08:30",
+    "WH": "31524144",
+    "VARH": "8903124"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 09:00",
+    "WH": "31524554",
+    "VARH": "8903212"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 09:30",
+    "WH": "31524935",
+    "VARH": "8903307"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 10:00",
+    "WH": "31525303",
+    "VARH": "8903390"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 10:30",
+    "WH": "31525685",
+    "VARH": "8903477"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 11:00",
+    "WH": "31526054",
+    "VARH": "8903562"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 11:30",
+    "WH": "31526425",
+    "VARH": "8903647"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 12:00",
+    "WH": "31526787",
+    "VARH": "8903730"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 12:30",
+    "WH": "31527148",
+    "VARH": "8903812"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 13:00",
+    "WH": "31527492",
+    "VARH": "8903890"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 13:30",
+    "WH": "31527836",
+    "VARH": "8903973"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 14:00",
+    "WH": "31528197",
+    "VARH": "8904063"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 14:30",
+    "WH": "31528542",
+    "VARH": "8904145"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 15:00",
+    "WH": "31528894",
+    "VARH": "8904225"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 15:30",
+    "WH": "31529237",
+    "VARH": "8904312"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 16:00",
+    "WH": "31529550",
+    "VARH": "8904393"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 16:30",
+    "WH": "31529824",
+    "VARH": "8904459"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 17:00",
+    "WH": "31530069",
+    "VARH": "8904515"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 17:30",
+    "WH": "31530291",
+    "VARH": "8904566"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 18:00",
+    "WH": "31530513",
+    "VARH": "8904618"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 18:30",
+    "WH": "31530722",
+    "VARH": "8904691"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 19:00",
+    "WH": "31530924",
+    "VARH": "8904760"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 19:30",
+    "WH": "31531122",
+    "VARH": "8904827"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 20:00",
+    "WH": "31531315",
+    "VARH": "8904893"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 20:30",
+    "WH": "31531500",
+    "VARH": "8904948"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 21:00",
+    "WH": "31531685",
+    "VARH": "8905003"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 21:30",
+    "WH": "31531862",
+    "VARH": "8905062"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 22:00",
+    "WH": "31532037",
+    "VARH": "8905119"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 22:30",
+    "WH": "31532211",
+    "VARH": "8905170"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 23:00",
+    "WH": "31532391",
+    "VARH": "8905222"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "23/03/2020 23:30",
+    "WH": "31532565",
+    "VARH": "8905270"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 00:00",
+    "WH": "31532742",
+    "VARH": "8905318"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 00:30",
+    "WH": "31532925",
+    "VARH": "8905363"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 01:00",
+    "WH": "31533106",
+    "VARH": "8905414"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 01:30",
+    "WH": "31533285",
+    "VARH": "8905464"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 02:00",
+    "WH": "31533464",
+    "VARH": "8905520"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 02:30",
+    "WH": "31533640",
+    "VARH": "8905570"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 03:00",
+    "WH": "31533823",
+    "VARH": "8905623"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 03:30",
+    "WH": "31534002",
+    "VARH": "8905684"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 04:00",
+    "WH": "31534197",
+    "VARH": "8905731"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 04:30",
+    "WH": "31534484",
+    "VARH": "8905752"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 05:00",
+    "WH": "31534783",
+    "VARH": "8905776"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 05:30",
+    "WH": "31535074",
+    "VARH": "8905806"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 06:00",
+    "WH": "31535356",
+    "VARH": "8905845"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 06:30",
+    "WH": "31535653",
+    "VARH": "8905909"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 07:00",
+    "WH": "31535994",
+    "VARH": "8905985"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 07:30",
+    "WH": "31536366",
+    "VARH": "8906059"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 08:00",
+    "WH": "31536718",
+    "VARH": "8906133"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 08:30",
+    "WH": "31537088",
+    "VARH": "8906216"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 09:00",
+    "WH": "31537444",
+    "VARH": "8906296"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 09:30",
+    "WH": "31537793",
+    "VARH": "8906386"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 10:00",
+    "WH": "31538124",
+    "VARH": "8906460"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 10:30",
+    "WH": "31538470",
+    "VARH": "8906532"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 11:00",
+    "WH": "31538823",
+    "VARH": "8906593"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 11:30",
+    "WH": "31539175",
+    "VARH": "8906659"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 12:00",
+    "WH": "31539554",
+    "VARH": "8906721"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 12:30",
+    "WH": "31539931",
+    "VARH": "8906800"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 13:00",
+    "WH": "31540274",
+    "VARH": "8906875"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 13:30",
+    "WH": "31540627",
+    "VARH": "8906954"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 14:00",
+    "WH": "31540979",
+    "VARH": "8907038"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 14:30",
+    "WH": "31541337",
+    "VARH": "8907119"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 15:00",
+    "WH": "31541691",
+    "VARH": "8907204"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 15:30",
+    "WH": "31542020",
+    "VARH": "8907291"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 16:00",
+    "WH": "31542327",
+    "VARH": "8907372"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 16:30",
+    "WH": "31542607",
+    "VARH": "8907452"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 17:00",
+    "WH": "31542853",
+    "VARH": "8907518"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 17:30",
+    "WH": "31543080",
+    "VARH": "8907577"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 18:00",
+    "WH": "31543302",
+    "VARH": "8907632"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 18:30",
+    "WH": "31543517",
+    "VARH": "8907695"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 19:00",
+    "WH": "31543721",
+    "VARH": "8907774"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 19:30",
+    "WH": "31543919",
+    "VARH": "8907849"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 20:00",
+    "WH": "31544112",
+    "VARH": "8907922"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 20:30",
+    "WH": "31544295",
+    "VARH": "8907978"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 21:00",
+    "WH": "31544485",
+    "VARH": "8908040"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 21:30",
+    "WH": "31544663",
+    "VARH": "8908105"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 22:00",
+    "WH": "31544838",
+    "VARH": "8908161"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 22:30",
+    "WH": "31545012",
+    "VARH": "8908216"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 23:00",
+    "WH": "31545191",
+    "VARH": "8908266"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "24/03/2020 23:30",
+    "WH": "31545364",
+    "VARH": "8908316"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 00:00",
+    "WH": "31545537",
+    "VARH": "8908361"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 00:30",
+    "WH": "31545720",
+    "VARH": "8908410"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 01:00",
+    "WH": "31545895",
+    "VARH": "8908456"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 01:30",
+    "WH": "31546070",
+    "VARH": "8908507"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 02:00",
+    "WH": "31546248",
+    "VARH": "8908561"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 02:30",
+    "WH": "31546428",
+    "VARH": "8908613"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 03:00",
+    "WH": "31546605",
+    "VARH": "8908661"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 03:30",
+    "WH": "31546780",
+    "VARH": "8908720"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 04:00",
+    "WH": "31546994",
+    "VARH": "8908760"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 04:30",
+    "WH": "31547271",
+    "VARH": "8908793"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 05:00",
+    "WH": "31547567",
+    "VARH": "8908815"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 05:30",
+    "WH": "31547850",
+    "VARH": "8908846"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 06:00",
+    "WH": "31548120",
+    "VARH": "8908871"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 06:30",
+    "WH": "31548396",
+    "VARH": "8908913"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 07:00",
+    "WH": "31548730",
+    "VARH": "8908982"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 07:30",
+    "WH": "31549075",
+    "VARH": "8909059"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 08:00",
+    "WH": "31549420",
+    "VARH": "8909147"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 08:30",
+    "WH": "31549779",
+    "VARH": "8909237"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 09:00",
+    "WH": "31550150",
+    "VARH": "8909327"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 09:30",
+    "WH": "31550527",
+    "VARH": "8909428"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 10:00",
+    "WH": "31550911",
+    "VARH": "8909519"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 10:30",
+    "WH": "31551294",
+    "VARH": "8909619"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 11:00",
+    "WH": "31551657",
+    "VARH": "8909716"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 11:30",
+    "WH": "31552038",
+    "VARH": "8909809"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 12:00",
+    "WH": "31552410",
+    "VARH": "8909900"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 12:30",
+    "WH": "31552784",
+    "VARH": "8909990"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 13:00",
+    "WH": "31553141",
+    "VARH": "8910071"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 13:30",
+    "WH": "31553502",
+    "VARH": "8910153"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 14:00",
+    "WH": "31553864",
+    "VARH": "8910243"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 14:30",
+    "WH": "31554207",
+    "VARH": "8910328"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 15:00",
+    "WH": "31554534",
+    "VARH": "8910413"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 15:30",
+    "WH": "31554861",
+    "VARH": "8910501"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 16:00",
+    "WH": "31555162",
+    "VARH": "8910583"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 16:30",
+    "WH": "31555446",
+    "VARH": "8910666"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 17:00",
+    "WH": "31555696",
+    "VARH": "8910733"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 17:30",
+    "WH": "31555924",
+    "VARH": "8910796"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 18:00",
+    "WH": "31556147",
+    "VARH": "8910854"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 18:30",
+    "WH": "31556373",
+    "VARH": "8910912"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 19:00",
+    "WH": "31556589",
+    "VARH": "8910970"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 19:30",
+    "WH": "31556794",
+    "VARH": "8911023"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 20:00",
+    "WH": "31556984",
+    "VARH": "8911084"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 20:30",
+    "WH": "31557167",
+    "VARH": "8911141"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 21:00",
+    "WH": "31557340",
+    "VARH": "8911194"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 21:30",
+    "WH": "31557510",
+    "VARH": "8911256"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 22:00",
+    "WH": "31557677",
+    "VARH": "8911312"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 22:30",
+    "WH": "31557843",
+    "VARH": "8911363"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 23:00",
+    "WH": "31558014",
+    "VARH": "8911414"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "25/03/2020 23:30",
+    "WH": "31558177",
+    "VARH": "8911460"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 00:00",
+    "WH": "31558345",
+    "VARH": "8911503"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 00:30",
+    "WH": "31558520",
+    "VARH": "8911546"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 01:00",
+    "WH": "31558687",
+    "VARH": "8911590"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 01:30",
+    "WH": "31558858",
+    "VARH": "8911641"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 02:00",
+    "WH": "31559027",
+    "VARH": "8911694"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 02:30",
+    "WH": "31559194",
+    "VARH": "8911739"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 03:00",
+    "WH": "31559366",
+    "VARH": "8911792"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 03:30",
+    "WH": "31559533",
+    "VARH": "8911850"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 04:00",
+    "WH": "31559719",
+    "VARH": "8911894"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 04:30",
+    "WH": "31559991",
+    "VARH": "8911920"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 05:00",
+    "WH": "31560274",
+    "VARH": "8911956"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 05:30",
+    "WH": "31560579",
+    "VARH": "8911982"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 06:00",
+    "WH": "31560865",
+    "VARH": "8912004"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 06:30",
+    "WH": "31561153",
+    "VARH": "8912049"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 07:00",
+    "WH": "31561480",
+    "VARH": "8912117"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 07:30",
+    "WH": "31561823",
+    "VARH": "8912177"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 08:00",
+    "WH": "31562164",
+    "VARH": "8912249"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 08:30",
+    "WH": "31562515",
+    "VARH": "8912322"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 09:00",
+    "WH": "31562863",
+    "VARH": "8912386"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 09:30",
+    "WH": "31563216",
+    "VARH": "8912465"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 10:00",
+    "WH": "31563556",
+    "VARH": "8912534"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 10:30",
+    "WH": "31563890",
+    "VARH": "8912607"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 11:00",
+    "WH": "31564229",
+    "VARH": "8912674"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 11:30",
+    "WH": "31564588",
+    "VARH": "8912739"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 12:00",
+    "WH": "31564938",
+    "VARH": "8912800"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 12:30",
+    "WH": "31565288",
+    "VARH": "8912867"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 13:00",
+    "WH": "31565633",
+    "VARH": "8912931"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 13:30",
+    "WH": "31565965",
+    "VARH": "8912998"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 14:00",
+    "WH": "31566304",
+    "VARH": "8913071"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 14:30",
+    "WH": "31566632",
+    "VARH": "8913145"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 15:00",
+    "WH": "31566942",
+    "VARH": "8913213"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 15:30",
+    "WH": "31567235",
+    "VARH": "8913278"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 16:00",
+    "WH": "31567530",
+    "VARH": "8913344"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 16:30",
+    "WH": "31567804",
+    "VARH": "8913414"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 17:00",
+    "WH": "31568056",
+    "VARH": "8913466"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 17:30",
+    "WH": "31568272",
+    "VARH": "8913512"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 18:00",
+    "WH": "31568477",
+    "VARH": "8913545"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 18:30",
+    "WH": "31568676",
+    "VARH": "8913582"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 19:00",
+    "WH": "31568868",
+    "VARH": "8913621"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 19:30",
+    "WH": "31569051",
+    "VARH": "8913661"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 20:00",
+    "WH": "31569234",
+    "VARH": "8913692"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 20:30",
+    "WH": "31569409",
+    "VARH": "8913714"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 21:00",
+    "WH": "31569578",
+    "VARH": "8913746"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 21:30",
+    "WH": "31569732",
+    "VARH": "8913796"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 22:00",
+    "WH": "31569881",
+    "VARH": "8913839"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 22:30",
+    "WH": "31570029",
+    "VARH": "8913877"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 23:00",
+    "WH": "31570180",
+    "VARH": "8913913"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "26/03/2020 23:30",
+    "WH": "31570328",
+    "VARH": "8913947"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 00:00",
+    "WH": "31570482",
+    "VARH": "8913984"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 00:30",
+    "WH": "31570637",
+    "VARH": "8914015"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 01:00",
+    "WH": "31570788",
+    "VARH": "8914049"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 01:30",
+    "WH": "31570940",
+    "VARH": "8914086"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 02:00",
+    "WH": "31571091",
+    "VARH": "8914127"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 02:30",
+    "WH": "31571240",
+    "VARH": "8914166"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 03:00",
+    "WH": "31571393",
+    "VARH": "8914201"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 03:30",
+    "WH": "31571543",
+    "VARH": "8914248"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 04:00",
+    "WH": "31571699",
+    "VARH": "8914286"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 04:30",
+    "WH": "31571964",
+    "VARH": "8914300"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 05:00",
+    "WH": "31572250",
+    "VARH": "8914320"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 05:30",
+    "WH": "31572528",
+    "VARH": "8914335"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 06:00",
+    "WH": "31572796",
+    "VARH": "8914356"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 06:30",
+    "WH": "31573077",
+    "VARH": "8914390"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 07:00",
+    "WH": "31573357",
+    "VARH": "8914457"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 07:30",
+    "WH": "31573624",
+    "VARH": "8914524"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 08:00",
+    "WH": "31573918",
+    "VARH": "8914601"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 08:30",
+    "WH": "31574229",
+    "VARH": "8914667"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 09:00",
+    "WH": "31574540",
+    "VARH": "8914732"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 09:30",
+    "WH": "31574819",
+    "VARH": "8914797"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 10:00",
+    "WH": "31575114",
+    "VARH": "8914855"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 10:30",
+    "WH": "31575394",
+    "VARH": "8914926"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 11:00",
+    "WH": "31575685",
+    "VARH": "8914994"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 11:30",
+    "WH": "31575955",
+    "VARH": "8915038"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 12:00",
+    "WH": "31576252",
+    "VARH": "8915085"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 12:30",
+    "WH": "31576546",
+    "VARH": "8915141"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 13:00",
+    "WH": "31576808",
+    "VARH": "8915187"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 13:30",
+    "WH": "31577068",
+    "VARH": "8915230"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 14:00",
+    "WH": "31577331",
+    "VARH": "8915293"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 14:30",
+    "WH": "31577582",
+    "VARH": "8915358"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 15:00",
+    "WH": "31577816",
+    "VARH": "8915415"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 15:30",
+    "WH": "31578035",
+    "VARH": "8915474"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 16:00",
+    "WH": "31578247",
+    "VARH": "8915529"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 16:30",
+    "WH": "31578482",
+    "VARH": "8915595"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 17:00",
+    "WH": "31578697",
+    "VARH": "8915650"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 17:30",
+    "WH": "31578897",
+    "VARH": "8915694"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 18:00",
+    "WH": "31579120",
+    "VARH": "8915738"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 18:30",
+    "WH": "31579346",
+    "VARH": "8915770"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 19:00",
+    "WH": "31579551",
+    "VARH": "8915809"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 19:30",
+    "WH": "31579746",
+    "VARH": "8915847"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 20:00",
+    "WH": "31579958",
+    "VARH": "8915879"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 20:30",
+    "WH": "31580153",
+    "VARH": "8915903"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 21:00",
+    "WH": "31580354",
+    "VARH": "8915927"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 21:30",
+    "WH": "31580560",
+    "VARH": "8915955"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 22:00",
+    "WH": "31580775",
+    "VARH": "8915980"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 22:30",
+    "WH": "31580992",
+    "VARH": "8916000"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 23:00",
+    "WH": "31581197",
+    "VARH": "8916017"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "27/03/2020 23:30",
+    "WH": "31581410",
+    "VARH": "8916028"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 00:00",
+    "WH": "31581618",
+    "VARH": "8916038"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 00:30",
+    "WH": "31581813",
+    "VARH": "8916044"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 01:00",
+    "WH": "31581998",
+    "VARH": "8916055"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 01:30",
+    "WH": "31582176",
+    "VARH": "8916067"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 02:00",
+    "WH": "31582344",
+    "VARH": "8916084"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 02:30",
+    "WH": "31582516",
+    "VARH": "8916099"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 03:00",
+    "WH": "31582685",
+    "VARH": "8916110"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 03:30",
+    "WH": "31582863",
+    "VARH": "8916130"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 04:00",
+    "WH": "31583035",
+    "VARH": "8916149"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 04:30",
+    "WH": "31583234",
+    "VARH": "8916157"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 05:00",
+    "WH": "31583452",
+    "VARH": "8916167"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 05:30",
+    "WH": "31583722",
+    "VARH": "8916172"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 06:00",
+    "WH": "31583962",
+    "VARH": "8916190"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 06:30",
+    "WH": "31584201",
+    "VARH": "8916222"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 07:00",
+    "WH": "31584458",
+    "VARH": "8916279"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 07:30",
+    "WH": "31584707",
+    "VARH": "8916339"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 08:00",
+    "WH": "31584969",
+    "VARH": "8916406"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 08:30",
+    "WH": "31585253",
+    "VARH": "8916473"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 09:00",
+    "WH": "31585540",
+    "VARH": "8916540"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 09:30",
+    "WH": "31585817",
+    "VARH": "8916609"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 10:00",
+    "WH": "31586075",
+    "VARH": "8916671"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 10:30",
+    "WH": "31586313",
+    "VARH": "8916728"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 11:00",
+    "WH": "31586550",
+    "VARH": "8916782"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 11:30",
+    "WH": "31586803",
+    "VARH": "8916823"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 12:00",
+    "WH": "31587076",
+    "VARH": "8916872"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 12:30",
+    "WH": "31587336",
+    "VARH": "8916930"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 13:00",
+    "WH": "31587582",
+    "VARH": "8916977"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 13:30",
+    "WH": "31587814",
+    "VARH": "8917017"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 14:00",
+    "WH": "31588043",
+    "VARH": "8917062"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 14:30",
+    "WH": "31588271",
+    "VARH": "8917106"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 15:00",
+    "WH": "31588505",
+    "VARH": "8917161"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 15:30",
+    "WH": "31588729",
+    "VARH": "8917224"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 16:00",
+    "WH": "31588938",
+    "VARH": "8917269"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 16:30",
+    "WH": "31589127",
+    "VARH": "8917287"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 17:00",
+    "WH": "31589319",
+    "VARH": "8917303"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 17:30",
+    "WH": "31589507",
+    "VARH": "8917318"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 18:00",
+    "WH": "31589702",
+    "VARH": "8917335"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 18:30",
+    "WH": "31589898",
+    "VARH": "8917350"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 19:00",
+    "WH": "31590089",
+    "VARH": "8917368"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 19:30",
+    "WH": "31590273",
+    "VARH": "8917377"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 20:00",
+    "WH": "31590458",
+    "VARH": "8917390"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 20:30",
+    "WH": "31590659",
+    "VARH": "8917402"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 21:00",
+    "WH": "31590857",
+    "VARH": "8917416"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 21:30",
+    "WH": "31591051",
+    "VARH": "8917438"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 22:00",
+    "WH": "31591229",
+    "VARH": "8917453"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 22:30",
+    "WH": "31591405",
+    "VARH": "8917469"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 23:00",
+    "WH": "31591589",
+    "VARH": "8917482"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "28/03/2020 23:30",
+    "WH": "31591768",
+    "VARH": "8917494"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 00:00",
+    "WH": "31591948",
+    "VARH": "8917504"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 00:30",
+    "WH": "31592124",
+    "VARH": "8917514"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 01:00",
+    "WH": "31592292",
+    "VARH": "8917524"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 01:30",
+    "WH": "31592459",
+    "VARH": "8917535"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 02:00",
+    "WH": "31592658",
+    "VARH": "8917545"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 02:30",
+    "WH": "31592846",
+    "VARH": "8917554"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 03:00",
+    "WH": "31593026",
+    "VARH": "8917559"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 03:30",
+    "WH": "31593190",
+    "VARH": "8917573"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 04:00",
+    "WH": "31593353",
+    "VARH": "8917589"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 04:30",
+    "WH": "31593532",
+    "VARH": "8917595"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 05:00",
+    "WH": "31593750",
+    "VARH": "8917600"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 05:30",
+    "WH": "31594015",
+    "VARH": "8917618"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 06:00",
+    "WH": "31594289",
+    "VARH": "8917663"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 06:30",
+    "WH": "31594536",
+    "VARH": "8917715"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 07:00",
+    "WH": "31594777",
+    "VARH": "8917763"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 07:30",
+    "WH": "31595016",
+    "VARH": "8917806"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 08:00",
+    "WH": "31595258",
+    "VARH": "8917854"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 08:30",
+    "WH": "31595491",
+    "VARH": "8917906"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 09:00",
+    "WH": "31595719",
+    "VARH": "8917955"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 09:30",
+    "WH": "31595947",
+    "VARH": "8918015"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 10:00",
+    "WH": "31596171",
+    "VARH": "8918072"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 10:30",
+    "WH": "31596393",
+    "VARH": "8918121"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 11:00",
+    "WH": "31596615",
+    "VARH": "8918160"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 11:30",
+    "WH": "31596825",
+    "VARH": "8918195"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 12:00",
+    "WH": "31597030",
+    "VARH": "8918224"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 12:30",
+    "WH": "31597222",
+    "VARH": "8918257"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 13:00",
+    "WH": "31597398",
+    "VARH": "8918270"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 13:30",
+    "WH": "31597564",
+    "VARH": "8918279"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 14:00",
+    "WH": "31597730",
+    "VARH": "8918291"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 14:30",
+    "WH": "31597896",
+    "VARH": "8918297"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 15:00",
+    "WH": "31598066",
+    "VARH": "8918308"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 15:30",
+    "WH": "31598227",
+    "VARH": "8918324"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 16:00",
+    "WH": "31598376",
+    "VARH": "8918351"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 16:30",
+    "WH": "31598525",
+    "VARH": "8918374"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 17:00",
+    "WH": "31598683",
+    "VARH": "8918407"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 17:30",
+    "WH": "31598835",
+    "VARH": "8918438"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 18:00",
+    "WH": "31598987",
+    "VARH": "8918467"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 18:30",
+    "WH": "31599140",
+    "VARH": "8918499"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 19:00",
+    "WH": "31599287",
+    "VARH": "8918531"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 19:30",
+    "WH": "31599434",
+    "VARH": "8918563"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 20:00",
+    "WH": "31599586",
+    "VARH": "8918602"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 20:30",
+    "WH": "31599738",
+    "VARH": "8918643"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 21:00",
+    "WH": "31599890",
+    "VARH": "8918679"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 21:30",
+    "WH": "31600041",
+    "VARH": "8918725"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 22:00",
+    "WH": "31600184",
+    "VARH": "8918761"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 22:30",
+    "WH": "31600327",
+    "VARH": "8918796"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 23:00",
+    "WH": "31600477",
+    "VARH": "8918833"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "29/03/2020 23:30",
+    "WH": "31600625",
+    "VARH": "8918863"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 00:00",
+    "WH": "31600775",
+    "VARH": "8918893"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 00:30",
+    "WH": "31600926",
+    "VARH": "8918923"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 01:00",
+    "WH": "31601070",
+    "VARH": "8918954"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 01:30",
+    "WH": "31601215",
+    "VARH": "8918986"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 02:00",
+    "WH": "31601363",
+    "VARH": "8919023"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 02:30",
+    "WH": "31601513",
+    "VARH": "8919059"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 03:00",
+    "WH": "31601663",
+    "VARH": "8919095"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 03:30",
+    "WH": "31601808",
+    "VARH": "8919138"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 04:00",
+    "WH": "31601962",
+    "VARH": "8919170"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 04:30",
+    "WH": "31602204",
+    "VARH": "8919195"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 05:00",
+    "WH": "31602411",
+    "VARH": "8919213"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 05:30",
+    "WH": "31602639",
+    "VARH": "8919246"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 06:00",
+    "WH": "31602913",
+    "VARH": "8919294"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 06:30",
+    "WH": "31603158",
+    "VARH": "8919334"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 07:00",
+    "WH": "31603403",
+    "VARH": "8919382"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 07:30",
+    "WH": "31603637",
+    "VARH": "8919433"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 08:00",
+    "WH": "31603903",
+    "VARH": "8919493"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 08:30",
+    "WH": "31604140",
+    "VARH": "8919547"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 09:00",
+    "WH": "31604390",
+    "VARH": "8919594"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 09:30",
+    "WH": "31604657",
+    "VARH": "8919653"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 10:00",
+    "WH": "31604896",
+    "VARH": "8919707"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 10:30",
+    "WH": "31605140",
+    "VARH": "8919763"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 11:00",
+    "WH": "31605394",
+    "VARH": "8919835"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 11:30",
+    "WH": "31605641",
+    "VARH": "8919889"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 12:00",
+    "WH": "31605888",
+    "VARH": "8919947"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 12:30",
+    "WH": "31606165",
+    "VARH": "8920001"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 13:00",
+    "WH": "31606412",
+    "VARH": "8920053"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 13:30",
+    "WH": "31606677",
+    "VARH": "8920101"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 14:00",
+    "WH": "31606917",
+    "VARH": "8920173"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 14:30",
+    "WH": "31607175",
+    "VARH": "8920242"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 15:00",
+    "WH": "31607422",
+    "VARH": "8920316"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 15:30",
+    "WH": "31607668",
+    "VARH": "8920401"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 16:00",
+    "WH": "31607891",
+    "VARH": "8920469"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 16:30",
+    "WH": "31608095",
+    "VARH": "8920515"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 17:00",
+    "WH": "31608295",
+    "VARH": "8920555"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 17:30",
+    "WH": "31608489",
+    "VARH": "8920590"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 18:00",
+    "WH": "31608674",
+    "VARH": "8920639"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 18:30",
+    "WH": "31608851",
+    "VARH": "8920698"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 19:00",
+    "WH": "31609020",
+    "VARH": "8920751"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 19:30",
+    "WH": "31609183",
+    "VARH": "8920800"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 20:00",
+    "WH": "31609346",
+    "VARH": "8920851"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 20:30",
+    "WH": "31609508",
+    "VARH": "8920903"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 21:00",
+    "WH": "31609666",
+    "VARH": "8920944"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 21:30",
+    "WH": "31609817",
+    "VARH": "8920993"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 22:00",
+    "WH": "31609965",
+    "VARH": "8921035"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 22:30",
+    "WH": "31610112",
+    "VARH": "8921073"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 23:00",
+    "WH": "31610264",
+    "VARH": "8921111"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "30/03/2020 23:30",
+    "WH": "31610413",
+    "VARH": "8921143"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 00:00",
+    "WH": "31610564",
+    "VARH": "8921176"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 00:30",
+    "WH": "31610718",
+    "VARH": "8921205"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 01:00",
+    "WH": "31610875",
+    "VARH": "8921246"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 01:30",
+    "WH": "31611032",
+    "VARH": "8921292"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 02:00",
+    "WH": "31611189",
+    "VARH": "8921343"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 02:30",
+    "WH": "31611343",
+    "VARH": "8921387"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 03:00",
+    "WH": "31611495",
+    "VARH": "8921425"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 03:30",
+    "WH": "31611649",
+    "VARH": "8921475"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 04:00",
+    "WH": "31611825",
+    "VARH": "8921508"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 04:30",
+    "WH": "31612076",
+    "VARH": "8921520"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 05:00",
+    "WH": "31612307",
+    "VARH": "8921539"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 05:30",
+    "WH": "31612555",
+    "VARH": "8921575"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 06:00",
+    "WH": "31612780",
+    "VARH": "8921624"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 06:30",
+    "WH": "31613016",
+    "VARH": "8921677"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 07:00",
+    "WH": "31613257",
+    "VARH": "8921741"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 07:30",
+    "WH": "31613505",
+    "VARH": "8921807"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 08:00",
+    "WH": "31613776",
+    "VARH": "8921880"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 08:30",
+    "WH": "31614058",
+    "VARH": "8921952"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 09:00",
+    "WH": "31614325",
+    "VARH": "8922019"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 09:30",
+    "WH": "31614565",
+    "VARH": "8922090"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 10:00",
+    "WH": "31614812",
+    "VARH": "8922151"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 10:30",
+    "WH": "31615094",
+    "VARH": "8922217"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 11:00",
+    "WH": "31615360",
+    "VARH": "8922263"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 11:30",
+    "WH": "31615620",
+    "VARH": "8922314"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 12:00",
+    "WH": "31615885",
+    "VARH": "8922376"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 12:30",
+    "WH": "31616153",
+    "VARH": "8922437"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 13:00",
+    "WH": "31616420",
+    "VARH": "8922515"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 13:30",
+    "WH": "31616676",
+    "VARH": "8922593"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 14:00",
+    "WH": "31616940",
+    "VARH": "8922668"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 14:30",
+    "WH": "31617186",
+    "VARH": "8922743"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 15:00",
+    "WH": "31617417",
+    "VARH": "8922803"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 15:30",
+    "WH": "31617642",
+    "VARH": "8922868"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 16:00",
+    "WH": "31617852",
+    "VARH": "8922919"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 16:30",
+    "WH": "31618046",
+    "VARH": "8922952"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 17:00",
+    "WH": "31618238",
+    "VARH": "8922984"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 17:30",
+    "WH": "31618422",
+    "VARH": "8923010"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 18:00",
+    "WH": "31618599",
+    "VARH": "8923057"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 18:30",
+    "WH": "31618764",
+    "VARH": "8923118"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 19:00",
+    "WH": "31618919",
+    "VARH": "8923157"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 19:30",
+    "WH": "31619068",
+    "VARH": "8923188"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 20:00",
+    "WH": "31619216",
+    "VARH": "8923221"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 20:30",
+    "WH": "31619366",
+    "VARH": "8923252"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 21:00",
+    "WH": "31619513",
+    "VARH": "8923282"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 21:30",
+    "WH": "31619658",
+    "VARH": "8923322"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 22:00",
+    "WH": "31619797",
+    "VARH": "8923356"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 22:30",
+    "WH": "31619939",
+    "VARH": "8923390"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 23:00",
+    "WH": "31620080",
+    "VARH": "8923414"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "31/03/2020 23:30",
+    "WH": "31620223",
+    "VARH": "8923438"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 00:00",
+    "WH": "31620365",
+    "VARH": "8923463"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 00:30",
+    "WH": "31620506",
+    "VARH": "8923494"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 01:00",
+    "WH": "31620647",
+    "VARH": "8923514"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 01:30",
+    "WH": "31620788",
+    "VARH": "8923535"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 02:00",
+    "WH": "31620930",
+    "VARH": "8923567"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 02:30",
+    "WH": "31621069",
+    "VARH": "8923593"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 03:00",
+    "WH": "31621210",
+    "VARH": "8923618"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 03:30",
+    "WH": "31621352",
+    "VARH": "8923653"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 04:00",
+    "WH": "31621510",
+    "VARH": "8923673"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 04:30",
+    "WH": "31621763",
+    "VARH": "8923679"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 05:00",
+    "WH": "31622009",
+    "VARH": "8923687"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 05:30",
+    "WH": "31622240",
+    "VARH": "8923719"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 06:00",
+    "WH": "31622477",
+    "VARH": "8923762"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 06:30",
+    "WH": "31622735",
+    "VARH": "8923815"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 07:00",
+    "WH": "31622972",
+    "VARH": "8923857"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 07:30",
+    "WH": "31623210",
+    "VARH": "8923902"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 08:00",
+    "WH": "31623450",
+    "VARH": "8923957"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 08:30",
+    "WH": "31623709",
+    "VARH": "8924020"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 09:00",
+    "WH": "31623981",
+    "VARH": "8924098"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 09:30",
+    "WH": "31624242",
+    "VARH": "8924178"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 10:00",
+    "WH": "31624499",
+    "VARH": "8924250"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 10:30",
+    "WH": "31624762",
+    "VARH": "8924322"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 11:00",
+    "WH": "31625013",
+    "VARH": "8924391"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 11:30",
+    "WH": "31625271",
+    "VARH": "8924448"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 12:00",
+    "WH": "31625550",
+    "VARH": "8924513"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 12:30",
+    "WH": "31625811",
+    "VARH": "8924575"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 13:00",
+    "WH": "31626074",
+    "VARH": "8924647"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 13:30",
+    "WH": "31626329",
+    "VARH": "8924718"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 14:00",
+    "WH": "31626580",
+    "VARH": "8924793"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 14:30",
+    "WH": "31626829",
+    "VARH": "8924867"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 15:00",
+    "WH": "31627073",
+    "VARH": "8924935"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 15:30",
+    "WH": "31627307",
+    "VARH": "8925007"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 16:00",
+    "WH": "31627524",
+    "VARH": "8925063"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 16:30",
+    "WH": "31627729",
+    "VARH": "8925109"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 17:00",
+    "WH": "31627928",
+    "VARH": "8925146"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 17:30",
+    "WH": "31628127",
+    "VARH": "8925185"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 18:00",
+    "WH": "31628318",
+    "VARH": "8925231"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 18:30",
+    "WH": "31628490",
+    "VARH": "8925288"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 19:00",
+    "WH": "31628657",
+    "VARH": "8925340"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 19:30",
+    "WH": "31628820",
+    "VARH": "8925389"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 20:00",
+    "WH": "31628978",
+    "VARH": "8925437"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 20:30",
+    "WH": "31629136",
+    "VARH": "8925482"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 21:00",
+    "WH": "31629292",
+    "VARH": "8925526"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 21:30",
+    "WH": "31629441",
+    "VARH": "8925573"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 22:00",
+    "WH": "31629589",
+    "VARH": "8925615"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 22:30",
+    "WH": "31629736",
+    "VARH": "8925653"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 23:00",
+    "WH": "31629884",
+    "VARH": "8925682"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "01/04/2020 23:30",
+    "WH": "31630033",
+    "VARH": "8925718"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 00:00",
+    "WH": "31630182",
+    "VARH": "8925750"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 00:30",
+    "WH": "31630334",
+    "VARH": "8925780"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 01:00",
+    "WH": "31630489",
+    "VARH": "8925821"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 01:30",
+    "WH": "31630642",
+    "VARH": "8925864"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 02:00",
+    "WH": "31630796",
+    "VARH": "8925910"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 02:30",
+    "WH": "31630947",
+    "VARH": "8925951"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 03:00",
+    "WH": "31631100",
+    "VARH": "8925993"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 03:30",
+    "WH": "31631249",
+    "VARH": "8926040"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 04:00",
+    "WH": "31631419",
+    "VARH": "8926073"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 04:30",
+    "WH": "31631662",
+    "VARH": "8926091"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 05:00",
+    "WH": "31631870",
+    "VARH": "8926109"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 05:30",
+    "WH": "31632101",
+    "VARH": "8926140"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 06:00",
+    "WH": "31632342",
+    "VARH": "8926196"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 06:30",
+    "WH": "31632602",
+    "VARH": "8926253"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 07:00",
+    "WH": "31632878",
+    "VARH": "8926313"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 07:30",
+    "WH": "31633142",
+    "VARH": "8926366"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 08:00",
+    "WH": "31633381",
+    "VARH": "8926423"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 08:30",
+    "WH": "31633632",
+    "VARH": "8926485"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 09:00",
+    "WH": "31633883",
+    "VARH": "8926544"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 09:30",
+    "WH": "31634144",
+    "VARH": "8926615"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 10:00",
+    "WH": "31634403",
+    "VARH": "8926678"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 10:30",
+    "WH": "31634647",
+    "VARH": "8926729"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 11:00",
+    "WH": "31634930",
+    "VARH": "8926779"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 11:30",
+    "WH": "31635200",
+    "VARH": "8926824"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 12:00",
+    "WH": "31635459",
+    "VARH": "8926881"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 12:30",
+    "WH": "31635702",
+    "VARH": "8926949"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 13:00",
+    "WH": "31635942",
+    "VARH": "8927009"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 13:30",
+    "WH": "31636185",
+    "VARH": "8927072"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 14:00",
+    "WH": "31636412",
+    "VARH": "8927124"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 14:30",
+    "WH": "31636640",
+    "VARH": "8927180"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 15:00",
+    "WH": "31636882",
+    "VARH": "8927244"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 15:30",
+    "WH": "31637123",
+    "VARH": "8927326"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 16:00",
+    "WH": "31637344",
+    "VARH": "8927392"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 16:30",
+    "WH": "31637546",
+    "VARH": "8927449"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 17:00",
+    "WH": "31637741",
+    "VARH": "8927489"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 17:30",
+    "WH": "31637932",
+    "VARH": "8927528"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 18:00",
+    "WH": "31638127",
+    "VARH": "8927571"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 18:30",
+    "WH": "31638317",
+    "VARH": "8927612"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 19:00",
+    "WH": "31638490",
+    "VARH": "8927657"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 19:30",
+    "WH": "31638646",
+    "VARH": "8927702"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 20:00",
+    "WH": "31638803",
+    "VARH": "8927749"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 20:30",
+    "WH": "31638962",
+    "VARH": "8927797"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 21:00",
+    "WH": "31639118",
+    "VARH": "8927835"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 21:30",
+    "WH": "31639267",
+    "VARH": "8927883"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 22:00",
+    "WH": "31639412",
+    "VARH": "8927927"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 22:30",
+    "WH": "31639555",
+    "VARH": "8927962"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 23:00",
+    "WH": "31639707",
+    "VARH": "8927999"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "02/04/2020 23:30",
+    "WH": "31639851",
+    "VARH": "8928035"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 00:00",
+    "WH": "31640002",
+    "VARH": "8928071"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 00:30",
+    "WH": "31640155",
+    "VARH": "8928104"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 01:00",
+    "WH": "31640308",
+    "VARH": "8928144"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 01:30",
+    "WH": "31640461",
+    "VARH": "8928188"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 02:00",
+    "WH": "31640613",
+    "VARH": "8928232"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 02:30",
+    "WH": "31640765",
+    "VARH": "8928275"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 03:00",
+    "WH": "31640918",
+    "VARH": "8928315"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 03:30",
+    "WH": "31641066",
+    "VARH": "8928361"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 04:00",
+    "WH": "31641213",
+    "VARH": "8928402"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 04:30",
+    "WH": "31641462",
+    "VARH": "8928419"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 05:00",
+    "WH": "31641686",
+    "VARH": "8928433"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 05:30",
+    "WH": "31641931",
+    "VARH": "8928474"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 06:00",
+    "WH": "31642174",
+    "VARH": "8928518"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 06:30",
+    "WH": "31642416",
+    "VARH": "8928575"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 07:00",
+    "WH": "31642675",
+    "VARH": "8928636"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 07:30",
+    "WH": "31642924",
+    "VARH": "8928702"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 08:00",
+    "WH": "31643174",
+    "VARH": "8928772"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 08:30",
+    "WH": "31643440",
+    "VARH": "8928846"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 09:00",
+    "WH": "31643702",
+    "VARH": "8928920"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 09:30",
+    "WH": "31643975",
+    "VARH": "8928999"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 10:00",
+    "WH": "31644246",
+    "VARH": "8929077"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 10:30",
+    "WH": "31644527",
+    "VARH": "8929154"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 11:00",
+    "WH": "31644801",
+    "VARH": "8929218"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 11:30",
+    "WH": "31645077",
+    "VARH": "8929280"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 12:00",
+    "WH": "31645356",
+    "VARH": "8929343"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 12:30",
+    "WH": "31645633",
+    "VARH": "8929414"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 13:00",
+    "WH": "31645893",
+    "VARH": "8929487"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 13:30",
+    "WH": "31646150",
+    "VARH": "8929566"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 14:00",
+    "WH": "31646412",
+    "VARH": "8929644"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 14:30",
+    "WH": "31646665",
+    "VARH": "8929716"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 15:00",
+    "WH": "31646925",
+    "VARH": "8929792"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 15:30",
+    "WH": "31647175",
+    "VARH": "8929871"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 16:00",
+    "WH": "31647397",
+    "VARH": "8929933"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 16:30",
+    "WH": "31647601",
+    "VARH": "8929988"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 17:00",
+    "WH": "31647800",
+    "VARH": "8930033"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 17:30",
+    "WH": "31647989",
+    "VARH": "8930074"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 18:00",
+    "WH": "31648177",
+    "VARH": "8930121"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 18:30",
+    "WH": "31648351",
+    "VARH": "8930183"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 19:00",
+    "WH": "31648518",
+    "VARH": "8930239"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 19:30",
+    "WH": "31648675",
+    "VARH": "8930282"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 20:00",
+    "WH": "31648833",
+    "VARH": "8930331"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 20:30",
+    "WH": "31648986",
+    "VARH": "8930373"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 21:00",
+    "WH": "31649141",
+    "VARH": "8930414"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 21:30",
+    "WH": "31649292",
+    "VARH": "8930463"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 22:00",
+    "WH": "31649439",
+    "VARH": "8930506"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 22:30",
+    "WH": "31649582",
+    "VARH": "8930544"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 23:00",
+    "WH": "31649730",
+    "VARH": "8930581"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "03/04/2020 23:30",
+    "WH": "31649875",
+    "VARH": "8930620"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 00:00",
+    "WH": "31650023",
+    "VARH": "8930652"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 00:30",
+    "WH": "31650175",
+    "VARH": "8930685"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 01:00",
+    "WH": "31650328",
+    "VARH": "8930726"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 01:30",
+    "WH": "31650478",
+    "VARH": "8930768"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 02:00",
+    "WH": "31650626",
+    "VARH": "8930811"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 02:30",
+    "WH": "31650777",
+    "VARH": "8930853"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 03:00",
+    "WH": "31650930",
+    "VARH": "8930893"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 03:30",
+    "WH": "31651077",
+    "VARH": "8930937"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 04:00",
+    "WH": "31651228",
+    "VARH": "8930975"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 04:30",
+    "WH": "31651474",
+    "VARH": "8930984"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 05:00",
+    "WH": "31651674",
+    "VARH": "8930996"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 05:30",
+    "WH": "31651920",
+    "VARH": "8931034"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 06:00",
+    "WH": "31652191",
+    "VARH": "8931083"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 06:30",
+    "WH": "31652447",
+    "VARH": "8931140"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 07:00",
+    "WH": "31652698",
+    "VARH": "8931197"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 07:30",
+    "WH": "31652930",
+    "VARH": "8931257"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 08:00",
+    "WH": "31653175",
+    "VARH": "8931319"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 08:30",
+    "WH": "31653415",
+    "VARH": "8931378"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 09:00",
+    "WH": "31653660",
+    "VARH": "8931443"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 09:30",
+    "WH": "31653913",
+    "VARH": "8931519"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 10:00",
+    "WH": "31654172",
+    "VARH": "8931587"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 10:30",
+    "WH": "31654448",
+    "VARH": "8931663"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 11:00",
+    "WH": "31654722",
+    "VARH": "8931734"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 11:30",
+    "WH": "31654977",
+    "VARH": "8931800"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 12:00",
+    "WH": "31655231",
+    "VARH": "8931858"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 12:30",
+    "WH": "31655479",
+    "VARH": "8931926"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 13:00",
+    "WH": "31655730",
+    "VARH": "8931985"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 13:30",
+    "WH": "31655967",
+    "VARH": "8932044"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 14:00",
+    "WH": "31656207",
+    "VARH": "8932117"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 14:30",
+    "WH": "31656438",
+    "VARH": "8932184"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 15:00",
+    "WH": "31656642",
+    "VARH": "8932221"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 15:30",
+    "WH": "31656826",
+    "VARH": "8932257"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 16:00",
+    "WH": "31657005",
+    "VARH": "8932292"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 16:30",
+    "WH": "31657163",
+    "VARH": "8932337"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 17:00",
+    "WH": "31657313",
+    "VARH": "8932374"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 17:30",
+    "WH": "31657460",
+    "VARH": "8932406"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 18:00",
+    "WH": "31657611",
+    "VARH": "8932438"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 18:30",
+    "WH": "31657763",
+    "VARH": "8932475"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 19:00",
+    "WH": "31657914",
+    "VARH": "8932512"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 19:30",
+    "WH": "31658065",
+    "VARH": "8932547"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 20:00",
+    "WH": "31658217",
+    "VARH": "8932592"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 20:30",
+    "WH": "31658367",
+    "VARH": "8932639"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 21:00",
+    "WH": "31658516",
+    "VARH": "8932675"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 21:30",
+    "WH": "31658662",
+    "VARH": "8932721"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 22:00",
+    "WH": "31658801",
+    "VARH": "8932758"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 22:30",
+    "WH": "31658942",
+    "VARH": "8932795"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 23:00",
+    "WH": "31659087",
+    "VARH": "8932825"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "04/04/2020 23:30",
+    "WH": "31659232",
+    "VARH": "8932861"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 00:00",
+    "WH": "31659376",
+    "VARH": "8932888"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 00:30",
+    "WH": "31659526",
+    "VARH": "8932921"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 01:00",
+    "WH": "31659677",
+    "VARH": "8932958"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 01:30",
+    "WH": "31659824",
+    "VARH": "8932993"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 02:00",
+    "WH": "31659975",
+    "VARH": "8933036"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 02:30",
+    "WH": "31660119",
+    "VARH": "8933071"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 03:00",
+    "WH": "31660268",
+    "VARH": "8933108"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 03:30",
+    "WH": "31660413",
+    "VARH": "8933151"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 04:00",
+    "WH": "31660562",
+    "VARH": "8933180"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 04:30",
+    "WH": "31660810",
+    "VARH": "8933190"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 05:00",
+    "WH": "31661046",
+    "VARH": "8933203"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 05:30",
+    "WH": "31661297",
+    "VARH": "8933232"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 06:00",
+    "WH": "31661537",
+    "VARH": "8933284"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 06:30",
+    "WH": "31661806",
+    "VARH": "8933336"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 07:00",
+    "WH": "31662059",
+    "VARH": "8933399"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 07:30",
+    "WH": "31662292",
+    "VARH": "8933458"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 08:00",
+    "WH": "31662539",
+    "VARH": "8933535"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 08:30",
+    "WH": "31662788",
+    "VARH": "8933600"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 09:00",
+    "WH": "31663049",
+    "VARH": "8933674"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 09:30",
+    "WH": "31663296",
+    "VARH": "8933747"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 10:00",
+    "WH": "31663550",
+    "VARH": "8933815"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 10:30",
+    "WH": "31663800",
+    "VARH": "8933882"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 11:00",
+    "WH": "31664037",
+    "VARH": "8933939"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 11:30",
+    "WH": "31664261",
+    "VARH": "8933986"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 12:00",
+    "WH": "31664474",
+    "VARH": "8934023"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 12:30",
+    "WH": "31664675",
+    "VARH": "8934055"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 13:00",
+    "WH": "31664860",
+    "VARH": "8934083"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 13:30",
+    "WH": "31665025",
+    "VARH": "8934113"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 14:00",
+    "WH": "31665181",
+    "VARH": "8934158"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 14:30",
+    "WH": "31665334",
+    "VARH": "8934200"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 15:00",
+    "WH": "31665483",
+    "VARH": "8934237"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 15:30",
+    "WH": "31665630",
+    "VARH": "8934282"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 16:00",
+    "WH": "31665772",
+    "VARH": "8934322"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 16:30",
+    "WH": "31665914",
+    "VARH": "8934363"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 17:00",
+    "WH": "31666059",
+    "VARH": "8934399"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 17:30",
+    "WH": "31666202",
+    "VARH": "8934432"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 18:00",
+    "WH": "31666350",
+    "VARH": "8934463"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 18:30",
+    "WH": "31666495",
+    "VARH": "8934493"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 19:00",
+    "WH": "31666649",
+    "VARH": "8934535"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 19:30",
+    "WH": "31666794",
+    "VARH": "8934566"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 20:00",
+    "WH": "31666942",
+    "VARH": "8934610"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 20:30",
+    "WH": "31667086",
+    "VARH": "8934646"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 21:00",
+    "WH": "31667232",
+    "VARH": "8934682"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 21:30",
+    "WH": "31667374",
+    "VARH": "8934724"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 22:00",
+    "WH": "31667513",
+    "VARH": "8934764"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 22:30",
+    "WH": "31667649",
+    "VARH": "8934793"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 23:00",
+    "WH": "31667790",
+    "VARH": "8934820"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "05/04/2020 23:30",
+    "WH": "31667930",
+    "VARH": "8934857"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 00:00",
+    "WH": "31668074",
+    "VARH": "8934888"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 00:30",
+    "WH": "31668217",
+    "VARH": "8934918"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 01:00",
+    "WH": "31668363",
+    "VARH": "8934952"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 01:30",
+    "WH": "31668508",
+    "VARH": "8934984"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 02:00",
+    "WH": "31668654",
+    "VARH": "8935029"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 02:30",
+    "WH": "31668796",
+    "VARH": "8935062"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 03:00",
+    "WH": "31668940",
+    "VARH": "8935096"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 03:30",
+    "WH": "31669082",
+    "VARH": "8935139"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 04:00",
+    "WH": "31669242",
+    "VARH": "8935168"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 04:30",
+    "WH": "31669480",
+    "VARH": "8935178"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 05:00",
+    "WH": "31669698",
+    "VARH": "8935200"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 05:30",
+    "WH": "31669925",
+    "VARH": "8935235"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 06:00",
+    "WH": "31670174",
+    "VARH": "8935283"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 06:30",
+    "WH": "31670425",
+    "VARH": "8935342"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 07:00",
+    "WH": "31670692",
+    "VARH": "8935400"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 07:30",
+    "WH": "31670971",
+    "VARH": "8935456"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 08:00",
+    "WH": "31671221",
+    "VARH": "8935509"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 08:30",
+    "WH": "31671454",
+    "VARH": "8935552"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 09:00",
+    "WH": "31671704",
+    "VARH": "8935596"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 09:30",
+    "WH": "31671961",
+    "VARH": "8935648"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 10:00",
+    "WH": "31672212",
+    "VARH": "8935702"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 10:30",
+    "WH": "31672466",
+    "VARH": "8935747"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 11:00",
+    "WH": "31672733",
+    "VARH": "8935798"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 11:30",
+    "WH": "31673003",
+    "VARH": "8935858"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 12:00",
+    "WH": "31673259",
+    "VARH": "8935915"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 12:30",
+    "WH": "31673514",
+    "VARH": "8935967"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 13:00",
+    "WH": "31673762",
+    "VARH": "8936020"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 13:30",
+    "WH": "31674022",
+    "VARH": "8936070"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 14:00",
+    "WH": "31674282",
+    "VARH": "8936134"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 14:30",
+    "WH": "31674531",
+    "VARH": "8936188"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 15:00",
+    "WH": "31674793",
+    "VARH": "8936243"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 15:30",
+    "WH": "31675029",
+    "VARH": "8936301"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 16:00",
+    "WH": "31675228",
+    "VARH": "8936344"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 16:30",
+    "WH": "31675418",
+    "VARH": "8936380"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 17:00",
+    "WH": "31675603",
+    "VARH": "8936408"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 17:30",
+    "WH": "31675785",
+    "VARH": "8936431"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 18:00",
+    "WH": "31675959",
+    "VARH": "8936464"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 18:30",
+    "WH": "31676126",
+    "VARH": "8936489"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 19:00",
+    "WH": "31676287",
+    "VARH": "8936510"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 19:30",
+    "WH": "31676445",
+    "VARH": "8936521"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 20:00",
+    "WH": "31676603",
+    "VARH": "8936543"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 20:30",
+    "WH": "31676760",
+    "VARH": "8936563"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 21:00",
+    "WH": "31676915",
+    "VARH": "8936579"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 21:30",
+    "WH": "31677065",
+    "VARH": "8936591"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 22:00",
+    "WH": "31677215",
+    "VARH": "8936611"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 22:30",
+    "WH": "31677363",
+    "VARH": "8936627"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 23:00",
+    "WH": "31677516",
+    "VARH": "8936643"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "06/04/2020 23:30",
+    "WH": "31677664",
+    "VARH": "8936655"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 00:00",
+    "WH": "31677818",
+    "VARH": "8936675"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 00:30",
+    "WH": "31677970",
+    "VARH": "8936684"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 01:00",
+    "WH": "31678125",
+    "VARH": "8936701"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 01:30",
+    "WH": "31678278",
+    "VARH": "8936713"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 02:00",
+    "WH": "31678432",
+    "VARH": "8936731"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 02:30",
+    "WH": "31678583",
+    "VARH": "8936742"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 03:00",
+    "WH": "31678734",
+    "VARH": "8936753"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 03:30",
+    "WH": "31678879",
+    "VARH": "8936766"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 04:00",
+    "WH": "31679055",
+    "VARH": "8936777"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 04:30",
+    "WH": "31679291",
+    "VARH": "8936782"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 05:00",
+    "WH": "31679492",
+    "VARH": "8936794"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 05:30",
+    "WH": "31679719",
+    "VARH": "8936819"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 06:00",
+    "WH": "31679991",
+    "VARH": "8936859"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 06:30",
+    "WH": "31680265",
+    "VARH": "8936907"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 07:00",
+    "WH": "31680526",
+    "VARH": "8936957"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 07:30",
+    "WH": "31680784",
+    "VARH": "8937007"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 08:00",
+    "WH": "31681053",
+    "VARH": "8937061"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 08:30",
+    "WH": "31681320",
+    "VARH": "8937111"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 09:00",
+    "WH": "31681609",
+    "VARH": "8937158"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 09:30",
+    "WH": "31681873",
+    "VARH": "8937227"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 10:00",
+    "WH": "31682134",
+    "VARH": "8937283"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 10:30",
+    "WH": "31682390",
+    "VARH": "8937344"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 11:00",
+    "WH": "31682675",
+    "VARH": "8937392"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 11:30",
+    "WH": "31682946",
+    "VARH": "8937449"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 12:00",
+    "WH": "31683206",
+    "VARH": "8937501"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 12:30",
+    "WH": "31683475",
+    "VARH": "8937552"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 13:00",
+    "WH": "31683727",
+    "VARH": "8937602"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 13:30",
+    "WH": "31683960",
+    "VARH": "8937653"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 14:00",
+    "WH": "31684199",
+    "VARH": "8937701"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 14:30",
+    "WH": "31684425",
+    "VARH": "8937750"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 15:00",
+    "WH": "31684652",
+    "VARH": "8937808"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 15:30",
+    "WH": "31684869",
+    "VARH": "8937871"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 16:00",
+    "WH": "31685073",
+    "VARH": "8937917"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 16:30",
+    "WH": "31685252",
+    "VARH": "8937947"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 17:00",
+    "WH": "31685432",
+    "VARH": "8937975"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 17:30",
+    "WH": "31685595",
+    "VARH": "8938015"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 18:00",
+    "WH": "31685752",
+    "VARH": "8938060"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 18:30",
+    "WH": "31685900",
+    "VARH": "8938097"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 19:00",
+    "WH": "31686049",
+    "VARH": "8938129"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 19:30",
+    "WH": "31686196",
+    "VARH": "8938167"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 20:00",
+    "WH": "31686334",
+    "VARH": "8938196"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 20:30",
+    "WH": "31686477",
+    "VARH": "8938225"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 21:00",
+    "WH": "31686618",
+    "VARH": "8938254"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 21:30",
+    "WH": "31686755",
+    "VARH": "8938288"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 22:00",
+    "WH": "31686886",
+    "VARH": "8938316"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 22:30",
+    "WH": "31687017",
+    "VARH": "8938345"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 23:00",
+    "WH": "31687151",
+    "VARH": "8938365"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "07/04/2020 23:30",
+    "WH": "31687282",
+    "VARH": "8938381"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 00:00",
+    "WH": "31687417",
+    "VARH": "8938397"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 00:30",
+    "WH": "31687548",
+    "VARH": "8938410"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 01:00",
+    "WH": "31687681",
+    "VARH": "8938433"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 01:30",
+    "WH": "31687816",
+    "VARH": "8938458"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 02:00",
+    "WH": "31687949",
+    "VARH": "8938481"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 02:30",
+    "WH": "31688084",
+    "VARH": "8938504"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 03:00",
+    "WH": "31688218",
+    "VARH": "8938522"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 03:30",
+    "WH": "31688351",
+    "VARH": "8938554"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 04:00",
+    "WH": "31688511",
+    "VARH": "8938567"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 04:30",
+    "WH": "31688727",
+    "VARH": "8938570"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 05:00",
+    "WH": "31688936",
+    "VARH": "8938579"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 05:30",
+    "WH": "31689179",
+    "VARH": "8938598"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 06:00",
+    "WH": "31689447",
+    "VARH": "8938631"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 06:30",
+    "WH": "31689707",
+    "VARH": "8938663"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 07:00",
+    "WH": "31689956",
+    "VARH": "8938701"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 07:30",
+    "WH": "31690199",
+    "VARH": "8938756"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 08:00",
+    "WH": "31690451",
+    "VARH": "8938819"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 08:30",
+    "WH": "31690702",
+    "VARH": "8938880"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 09:00",
+    "WH": "31690960",
+    "VARH": "8938938"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 09:30",
+    "WH": "31691217",
+    "VARH": "8938999"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 10:00",
+    "WH": "31691487",
+    "VARH": "8939056"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 10:30",
+    "WH": "31691762",
+    "VARH": "8939110"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 11:00",
+    "WH": "31692043",
+    "VARH": "8939153"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 11:30",
+    "WH": "31692310",
+    "VARH": "8939204"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 12:00",
+    "WH": "31692568",
+    "VARH": "8939246"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 12:30",
+    "WH": "31692828",
+    "VARH": "8939303"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 13:00",
+    "WH": "31693099",
+    "VARH": "8939357"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 13:30",
+    "WH": "31693342",
+    "VARH": "8939411"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 14:00",
+    "WH": "31693595",
+    "VARH": "8939481"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 14:30",
+    "WH": "31693832",
+    "VARH": "8939529"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 15:00",
+    "WH": "31694082",
+    "VARH": "8939577"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 15:30",
+    "WH": "31694342",
+    "VARH": "8939645"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 16:00",
+    "WH": "31694575",
+    "VARH": "8939693"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 16:30",
+    "WH": "31694770",
+    "VARH": "8939737"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 17:00",
+    "WH": "31694952",
+    "VARH": "8939765"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 17:30",
+    "WH": "31695122",
+    "VARH": "8939812"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 18:00",
+    "WH": "31695283",
+    "VARH": "8939857"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 18:30",
+    "WH": "31695441",
+    "VARH": "8939901"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 19:00",
+    "WH": "31695591",
+    "VARH": "8939932"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 19:30",
+    "WH": "31695736",
+    "VARH": "8939957"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 20:00",
+    "WH": "31695885",
+    "VARH": "8939996"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 20:30",
+    "WH": "31696027",
+    "VARH": "8940024"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 21:00",
+    "WH": "31696172",
+    "VARH": "8940053"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 21:30",
+    "WH": "31696313",
+    "VARH": "8940088"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 22:00",
+    "WH": "31696452",
+    "VARH": "8940123"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 22:30",
+    "WH": "31696590",
+    "VARH": "8940152"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 23:00",
+    "WH": "31696727",
+    "VARH": "8940170"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "08/04/2020 23:30",
+    "WH": "31696859",
+    "VARH": "8940186"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 00:00",
+    "WH": "31696996",
+    "VARH": "8940212"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 00:30",
+    "WH": "31697130",
+    "VARH": "8940230"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 01:00",
+    "WH": "31697265",
+    "VARH": "8940252"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 01:30",
+    "WH": "31697398",
+    "VARH": "8940267"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 02:00",
+    "WH": "31697535",
+    "VARH": "8940288"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 02:30",
+    "WH": "31697669",
+    "VARH": "8940301"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 03:00",
+    "WH": "31697808",
+    "VARH": "8940324"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 03:30",
+    "WH": "31697947",
+    "VARH": "8940356"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 04:00",
+    "WH": "31698104",
+    "VARH": "8940374"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 04:30",
+    "WH": "31698338",
+    "VARH": "8940379"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 05:00",
+    "WH": "31698550",
+    "VARH": "8940392"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 05:30",
+    "WH": "31698784",
+    "VARH": "8940409"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 06:00",
+    "WH": "31699053",
+    "VARH": "8940449"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 06:30",
+    "WH": "31699322",
+    "VARH": "8940484"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 07:00",
+    "WH": "31699575",
+    "VARH": "8940527"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 07:30",
+    "WH": "31699839",
+    "VARH": "8940568"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 08:00",
+    "WH": "31700114",
+    "VARH": "8940629"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 08:30",
+    "WH": "31700390",
+    "VARH": "8940693"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 09:00",
+    "WH": "31700652",
+    "VARH": "8940751"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 09:30",
+    "WH": "31700912",
+    "VARH": "8940817"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 10:00",
+    "WH": "31701179",
+    "VARH": "8940874"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 10:30",
+    "WH": "31701463",
+    "VARH": "8940929"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 11:00",
+    "WH": "31701761",
+    "VARH": "8940989"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 11:30",
+    "WH": "31702042",
+    "VARH": "8941048"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 12:00",
+    "WH": "31702314",
+    "VARH": "8941110"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 12:30",
+    "WH": "31702572",
+    "VARH": "8941167"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 13:00",
+    "WH": "31702833",
+    "VARH": "8941221"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 13:30",
+    "WH": "31703096",
+    "VARH": "8941277"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 14:00",
+    "WH": "31703359",
+    "VARH": "8941336"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 14:30",
+    "WH": "31703614",
+    "VARH": "8941391"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 15:00",
+    "WH": "31703860",
+    "VARH": "8941441"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 15:30",
+    "WH": "31704120",
+    "VARH": "8941497"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 16:00",
+    "WH": "31704353",
+    "VARH": "8941541"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 16:30",
+    "WH": "31704574",
+    "VARH": "8941578"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 17:00",
+    "WH": "31704765",
+    "VARH": "8941608"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 17:30",
+    "WH": "31704946",
+    "VARH": "8941634"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 18:00",
+    "WH": "31705115",
+    "VARH": "8941680"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 18:30",
+    "WH": "31705279",
+    "VARH": "8941728"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 19:00",
+    "WH": "31705434",
+    "VARH": "8941766"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 19:30",
+    "WH": "31705587",
+    "VARH": "8941800"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 20:00",
+    "WH": "31705740",
+    "VARH": "8941839"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 20:30",
+    "WH": "31705889",
+    "VARH": "8941873"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 21:00",
+    "WH": "31706041",
+    "VARH": "8941906"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 21:30",
+    "WH": "31706190",
+    "VARH": "8941946"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 22:00",
+    "WH": "31706330",
+    "VARH": "8941980"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 22:30",
+    "WH": "31706471",
+    "VARH": "8942013"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 23:00",
+    "WH": "31706617",
+    "VARH": "8942040"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "09/04/2020 23:30",
+    "WH": "31706759",
+    "VARH": "8942069"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 00:00",
+    "WH": "31706904",
+    "VARH": "8942098"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 00:30",
+    "WH": "31707049",
+    "VARH": "8942124"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 01:00",
+    "WH": "31707192",
+    "VARH": "8942144"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 01:30",
+    "WH": "31707342",
+    "VARH": "8942173"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 02:00",
+    "WH": "31707493",
+    "VARH": "8942212"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 02:30",
+    "WH": "31707640",
+    "VARH": "8942249"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 03:00",
+    "WH": "31707786",
+    "VARH": "8942278"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 03:30",
+    "WH": "31707931",
+    "VARH": "8942314"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 04:00",
+    "WH": "31708097",
+    "VARH": "8942338"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 04:30",
+    "WH": "31708346",
+    "VARH": "8942350"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 05:00",
+    "WH": "31708565",
+    "VARH": "8942369"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 05:30",
+    "WH": "31708811",
+    "VARH": "8942401"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 06:00",
+    "WH": "31709084",
+    "VARH": "8942449"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 06:30",
+    "WH": "31709374",
+    "VARH": "8942504"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 07:00",
+    "WH": "31709635",
+    "VARH": "8942558"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 07:30",
+    "WH": "31709916",
+    "VARH": "8942616"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 08:00",
+    "WH": "31710183",
+    "VARH": "8942679"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 08:30",
+    "WH": "31710440",
+    "VARH": "8942744"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 09:00",
+    "WH": "31710710",
+    "VARH": "8942797"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 09:30",
+    "WH": "31710957",
+    "VARH": "8942862"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 10:00",
+    "WH": "31711197",
+    "VARH": "8942922"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 10:30",
+    "WH": "31711457",
+    "VARH": "8942977"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 11:00",
+    "WH": "31711707",
+    "VARH": "8943040"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 11:30",
+    "WH": "31711949",
+    "VARH": "8943090"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 12:00",
+    "WH": "31712196",
+    "VARH": "8943150"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 12:30",
+    "WH": "31712464",
+    "VARH": "8943210"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 13:00",
+    "WH": "31712718",
+    "VARH": "8943271"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 13:30",
+    "WH": "31712943",
+    "VARH": "8943327"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 14:00",
+    "WH": "31713149",
+    "VARH": "8943385"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 14:30",
+    "WH": "31713346",
+    "VARH": "8943436"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 15:00",
+    "WH": "31713533",
+    "VARH": "8943500"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 15:30",
+    "WH": "31713710",
+    "VARH": "8943573"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 16:00",
+    "WH": "31713877",
+    "VARH": "8943638"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 16:30",
+    "WH": "31714032",
+    "VARH": "8943692"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 17:00",
+    "WH": "31714194",
+    "VARH": "8943744"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 17:30",
+    "WH": "31714350",
+    "VARH": "8943792"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 18:00",
+    "WH": "31714513",
+    "VARH": "8943846"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 18:30",
+    "WH": "31714676",
+    "VARH": "8943902"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 19:00",
+    "WH": "31714833",
+    "VARH": "8943945"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 19:30",
+    "WH": "31714982",
+    "VARH": "8943978"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 20:00",
+    "WH": "31715132",
+    "VARH": "8944018"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 20:30",
+    "WH": "31715280",
+    "VARH": "8944056"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 21:00",
+    "WH": "31715427",
+    "VARH": "8944091"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 21:30",
+    "WH": "31715577",
+    "VARH": "8944135"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 22:00",
+    "WH": "31715719",
+    "VARH": "8944171"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 22:30",
+    "WH": "31715857",
+    "VARH": "8944203"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 23:00",
+    "WH": "31716000",
+    "VARH": "8944236"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "10/04/2020 23:30",
+    "WH": "31716140",
+    "VARH": "8944261"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 00:00",
+    "WH": "31716285",
+    "VARH": "8944291"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 00:30",
+    "WH": "31716430",
+    "VARH": "8944325"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 01:00",
+    "WH": "31716573",
+    "VARH": "8944354"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 01:30",
+    "WH": "31716722",
+    "VARH": "8944392"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 02:00",
+    "WH": "31716872",
+    "VARH": "8944434"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 02:30",
+    "WH": "31717016",
+    "VARH": "8944472"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 03:00",
+    "WH": "31717161",
+    "VARH": "8944500"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 03:30",
+    "WH": "31717306",
+    "VARH": "8944539"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 04:00",
+    "WH": "31717472",
+    "VARH": "8944568"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 04:30",
+    "WH": "31717712",
+    "VARH": "8944581"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 05:00",
+    "WH": "31717922",
+    "VARH": "8944590"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 05:30",
+    "WH": "31718168",
+    "VARH": "8944627"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 06:00",
+    "WH": "31718457",
+    "VARH": "8944679"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 06:30",
+    "WH": "31718736",
+    "VARH": "8944742"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 07:00",
+    "WH": "31719025",
+    "VARH": "8944803"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 07:30",
+    "WH": "31719297",
+    "VARH": "8944865"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 08:00",
+    "WH": "31719584",
+    "VARH": "8944929"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 08:30",
+    "WH": "31719863",
+    "VARH": "8945001"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 09:00",
+    "WH": "31720128",
+    "VARH": "8945065"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 09:30",
+    "WH": "31720385",
+    "VARH": "8945133"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 10:00",
+    "WH": "31720634",
+    "VARH": "8945202"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 10:30",
+    "WH": "31720884",
+    "VARH": "8945267"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 11:00",
+    "WH": "31721157",
+    "VARH": "8945333"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 11:30",
+    "WH": "31721413",
+    "VARH": "8945387"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 12:00",
+    "WH": "31721673",
+    "VARH": "8945448"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 12:30",
+    "WH": "31721915",
+    "VARH": "8945512"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 13:00",
+    "WH": "31722138",
+    "VARH": "8945564"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 13:30",
+    "WH": "31722367",
+    "VARH": "8945618"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 14:00",
+    "WH": "31722603",
+    "VARH": "8945686"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 14:30",
+    "WH": "31722829",
+    "VARH": "8945748"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 15:00",
+    "WH": "31723036",
+    "VARH": "8945785"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 15:30",
+    "WH": "31723226",
+    "VARH": "8945817"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 16:00",
+    "WH": "31723401",
+    "VARH": "8945841"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 16:30",
+    "WH": "31723560",
+    "VARH": "8945877"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 17:00",
+    "WH": "31723722",
+    "VARH": "8945914"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 17:30",
+    "WH": "31723877",
+    "VARH": "8945947"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 18:00",
+    "WH": "31724030",
+    "VARH": "8945984"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 18:30",
+    "WH": "31724175",
+    "VARH": "8946015"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 19:00",
+    "WH": "31724322",
+    "VARH": "8946048"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 19:30",
+    "WH": "31724469",
+    "VARH": "8946083"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 20:00",
+    "WH": "31724619",
+    "VARH": "8946125"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 20:30",
+    "WH": "31724764",
+    "VARH": "8946162"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 21:00",
+    "WH": "31724911",
+    "VARH": "8946198"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 21:30",
+    "WH": "31725058",
+    "VARH": "8946241"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 22:00",
+    "WH": "31725197",
+    "VARH": "8946278"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 22:30",
+    "WH": "31725335",
+    "VARH": "8946308"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 23:00",
+    "WH": "31725479",
+    "VARH": "8946336"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "11/04/2020 23:30",
+    "WH": "31725623",
+    "VARH": "8946368"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 00:00",
+    "WH": "31725767",
+    "VARH": "8946400"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 00:30",
+    "WH": "31725910",
+    "VARH": "8946427"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 01:00",
+    "WH": "31726054",
+    "VARH": "8946458"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 01:30",
+    "WH": "31726202",
+    "VARH": "8946493"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 02:00",
+    "WH": "31726344",
+    "VARH": "8946528"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 02:30",
+    "WH": "31726487",
+    "VARH": "8946564"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 03:00",
+    "WH": "31726631",
+    "VARH": "8946593"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 03:30",
+    "WH": "31726776",
+    "VARH": "8946634"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 04:00",
+    "WH": "31726936",
+    "VARH": "8946668"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 04:30",
+    "WH": "31727176",
+    "VARH": "8946680"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 05:00",
+    "WH": "31727382",
+    "VARH": "8946694"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 05:30",
+    "WH": "31727638",
+    "VARH": "8946723"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 06:00",
+    "WH": "31727918",
+    "VARH": "8946776"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 06:30",
+    "WH": "31728188",
+    "VARH": "8946835"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 07:00",
+    "WH": "31728445",
+    "VARH": "8946896"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 07:30",
+    "WH": "31728714",
+    "VARH": "8946946"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 08:00",
+    "WH": "31728986",
+    "VARH": "8947008"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 08:30",
+    "WH": "31729241",
+    "VARH": "8947067"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 09:00",
+    "WH": "31729493",
+    "VARH": "8947127"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 09:30",
+    "WH": "31729740",
+    "VARH": "8947196"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 10:00",
+    "WH": "31729982",
+    "VARH": "8947259"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 10:30",
+    "WH": "31730225",
+    "VARH": "8947321"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 11:00",
+    "WH": "31730460",
+    "VARH": "8947365"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 11:30",
+    "WH": "31730669",
+    "VARH": "8947396"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 12:00",
+    "WH": "31730860",
+    "VARH": "8947424"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 12:30",
+    "WH": "31731046",
+    "VARH": "8947462"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 13:00",
+    "WH": "31731216",
+    "VARH": "8947488"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 13:30",
+    "WH": "31731370",
+    "VARH": "8947517"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 14:00",
+    "WH": "31731521",
+    "VARH": "8947557"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 14:30",
+    "WH": "31731666",
+    "VARH": "8947591"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 15:00",
+    "WH": "31731813",
+    "VARH": "8947619"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 15:30",
+    "WH": "31731955",
+    "VARH": "8947659"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 16:00",
+    "WH": "31732092",
+    "VARH": "8947692"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 16:30",
+    "WH": "31732228",
+    "VARH": "8947720"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 17:00",
+    "WH": "31732367",
+    "VARH": "8947747"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 17:30",
+    "WH": "31732497",
+    "VARH": "8947770"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 18:00",
+    "WH": "31732638",
+    "VARH": "8947794"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 18:30",
+    "WH": "31732782",
+    "VARH": "8947827"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 19:00",
+    "WH": "31732924",
+    "VARH": "8947853"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 19:30",
+    "WH": "31733063",
+    "VARH": "8947879"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 20:00",
+    "WH": "31733204",
+    "VARH": "8947912"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 20:30",
+    "WH": "31733343",
+    "VARH": "8947943"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 21:00",
+    "WH": "31733482",
+    "VARH": "8947963"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 21:30",
+    "WH": "31733620",
+    "VARH": "8947999"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 22:00",
+    "WH": "31733753",
+    "VARH": "8948030"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 22:30",
+    "WH": "31733885",
+    "VARH": "8948052"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 23:00",
+    "WH": "31734023",
+    "VARH": "8948075"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "12/04/2020 23:30",
+    "WH": "31734155",
+    "VARH": "8948095"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 00:00",
+    "WH": "31734288",
+    "VARH": "8948114"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 00:30",
+    "WH": "31734422",
+    "VARH": "8948140"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 01:00",
+    "WH": "31734555",
+    "VARH": "8948158"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 01:30",
+    "WH": "31734688",
+    "VARH": "8948179"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 02:00",
+    "WH": "31734824",
+    "VARH": "8948203"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 02:30",
+    "WH": "31734958",
+    "VARH": "8948226"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 03:00",
+    "WH": "31735091",
+    "VARH": "8948242"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 03:30",
+    "WH": "31735224",
+    "VARH": "8948266"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 04:00",
+    "WH": "31735384",
+    "VARH": "8948284"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 04:30",
+    "WH": "31735622",
+    "VARH": "8948291"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 05:00",
+    "WH": "31735847",
+    "VARH": "8948299"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 05:30",
+    "WH": "31736100",
+    "VARH": "8948315"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 06:00",
+    "WH": "31736371",
+    "VARH": "8948352"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 06:30",
+    "WH": "31736627",
+    "VARH": "8948402"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 07:00",
+    "WH": "31736870",
+    "VARH": "8948451"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 07:30",
+    "WH": "31737109",
+    "VARH": "8948501"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 08:00",
+    "WH": "31737350",
+    "VARH": "8948555"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 08:30",
+    "WH": "31737583",
+    "VARH": "8948605"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 09:00",
+    "WH": "31737819",
+    "VARH": "8948657"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 09:30",
+    "WH": "31738072",
+    "VARH": "8948719"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 10:00",
+    "WH": "31738316",
+    "VARH": "8948759"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 10:30",
+    "WH": "31738583",
+    "VARH": "8948816"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 11:00",
+    "WH": "31738854",
+    "VARH": "8948859"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 11:30",
+    "WH": "31739090",
+    "VARH": "8948902"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 12:00",
+    "WH": "31739324",
+    "VARH": "8948942"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 12:30",
+    "WH": "31739555",
+    "VARH": "8948992"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 13:00",
+    "WH": "31739784",
+    "VARH": "8949042"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 13:30",
+    "WH": "31740000",
+    "VARH": "8949087"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 14:00",
+    "WH": "31740216",
+    "VARH": "8949145"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 14:30",
+    "WH": "31740412",
+    "VARH": "8949196"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 15:00",
+    "WH": "31740599",
+    "VARH": "8949256"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 15:30",
+    "WH": "31740770",
+    "VARH": "8949324"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 16:00",
+    "WH": "31740929",
+    "VARH": "8949385"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 16:30",
+    "WH": "31741079",
+    "VARH": "8949437"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 17:00",
+    "WH": "31741232",
+    "VARH": "8949483"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 17:30",
+    "WH": "31741381",
+    "VARH": "8949525"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 18:00",
+    "WH": "31741536",
+    "VARH": "8949574"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 18:30",
+    "WH": "31741690",
+    "VARH": "8949617"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 19:00",
+    "WH": "31741838",
+    "VARH": "8949656"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 19:30",
+    "WH": "31741976",
+    "VARH": "8949684"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 20:00",
+    "WH": "31742118",
+    "VARH": "8949716"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 20:30",
+    "WH": "31742260",
+    "VARH": "8949753"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 21:00",
+    "WH": "31742400",
+    "VARH": "8949781"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 21:30",
+    "WH": "31742533",
+    "VARH": "8949810"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 22:00",
+    "WH": "31742669",
+    "VARH": "8949842"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 22:30",
+    "WH": "31742803",
+    "VARH": "8949865"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 23:00",
+    "WH": "31742937",
+    "VARH": "8949889"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "13/04/2020 23:30",
+    "WH": "31743072",
+    "VARH": "8949913"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 00:00",
+    "WH": "31743208",
+    "VARH": "8949939"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 00:30",
+    "WH": "31743345",
+    "VARH": "8949958"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 01:00",
+    "WH": "31743484",
+    "VARH": "8949982"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 01:30",
+    "WH": "31743624",
+    "VARH": "8950008"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 02:00",
+    "WH": "31743760",
+    "VARH": "8950038"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 02:30",
+    "WH": "31743897",
+    "VARH": "8950065"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 03:00",
+    "WH": "31744035",
+    "VARH": "8950086"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 03:30",
+    "WH": "31744170",
+    "VARH": "8950120"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 04:00",
+    "WH": "31744321",
+    "VARH": "8950141"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 04:30",
+    "WH": "31744571",
+    "VARH": "8950145"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 05:00",
+    "WH": "31744775",
+    "VARH": "8950152"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 05:30",
+    "WH": "31744996",
+    "VARH": "8950177"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 06:00",
+    "WH": "31745265",
+    "VARH": "8950221"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 06:30",
+    "WH": "31745532",
+    "VARH": "8950269"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 07:00",
+    "WH": "31745779",
+    "VARH": "8950323"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 07:30",
+    "WH": "31746047",
+    "VARH": "8950374"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 08:00",
+    "WH": "31746309",
+    "VARH": "8950422"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 08:30",
+    "WH": "31746578",
+    "VARH": "8950478"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 09:00",
+    "WH": "31746842",
+    "VARH": "8950529"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 09:30",
+    "WH": "31747080",
+    "VARH": "8950592"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 10:00",
+    "WH": "31747336",
+    "VARH": "8950646"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 10:30",
+    "WH": "31747585",
+    "VARH": "8950700"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 11:00",
+    "WH": "31747858",
+    "VARH": "8950744"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 11:30",
+    "WH": "31748110",
+    "VARH": "8950798"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 12:00",
+    "WH": "31748366",
+    "VARH": "8950862"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 12:30",
+    "WH": "31748611",
+    "VARH": "8950924"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 13:00",
+    "WH": "31748867",
+    "VARH": "8950986"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 13:30",
+    "WH": "31749111",
+    "VARH": "8951042"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 14:00",
+    "WH": "31749363",
+    "VARH": "8951110"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 14:30",
+    "WH": "31749615",
+    "VARH": "8951172"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 15:00",
+    "WH": "31749865",
+    "VARH": "8951231"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 15:30",
+    "WH": "31750107",
+    "VARH": "8951289"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 16:00",
+    "WH": "31750328",
+    "VARH": "8951345"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 16:30",
+    "WH": "31750522",
+    "VARH": "8951389"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 17:00",
+    "WH": "31750713",
+    "VARH": "8951427"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 17:30",
+    "WH": "31750890",
+    "VARH": "8951474"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 18:00",
+    "WH": "31751056",
+    "VARH": "8951524"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 18:30",
+    "WH": "31751220",
+    "VARH": "8951576"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 19:00",
+    "WH": "31751377",
+    "VARH": "8951617"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 19:30",
+    "WH": "31751532",
+    "VARH": "8951655"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 20:00",
+    "WH": "31751688",
+    "VARH": "8951697"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 20:30",
+    "WH": "31751840",
+    "VARH": "8951734"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 21:00",
+    "WH": "31751992",
+    "VARH": "8951772"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 21:30",
+    "WH": "31752143",
+    "VARH": "8951816"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 22:00",
+    "WH": "31752286",
+    "VARH": "8951850"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 22:30",
+    "WH": "31752429",
+    "VARH": "8951882"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 23:00",
+    "WH": "31752573",
+    "VARH": "8951910"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "14/04/2020 23:30",
+    "WH": "31752713",
+    "VARH": "8951936"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 00:00",
+    "WH": "31752859",
+    "VARH": "8951966"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 00:30",
+    "WH": "31753003",
+    "VARH": "8951989"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 01:00",
+    "WH": "31753148",
+    "VARH": "8952017"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 01:30",
+    "WH": "31753297",
+    "VARH": "8952053"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 02:00",
+    "WH": "31753448",
+    "VARH": "8952097"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 02:30",
+    "WH": "31753596",
+    "VARH": "8952134"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 03:00",
+    "WH": "31753745",
+    "VARH": "8952162"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 03:30",
+    "WH": "31753891",
+    "VARH": "8952202"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 04:00",
+    "WH": "31754061",
+    "VARH": "8952226"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 04:30",
+    "WH": "31754309",
+    "VARH": "8952235"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 05:00",
+    "WH": "31754527",
+    "VARH": "8952252"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 05:30",
+    "WH": "31754763",
+    "VARH": "8952289"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 06:00",
+    "WH": "31755031",
+    "VARH": "8952351"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 06:30",
+    "WH": "31755303",
+    "VARH": "8952417"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 07:00",
+    "WH": "31755572",
+    "VARH": "8952473"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 07:30",
+    "WH": "31755833",
+    "VARH": "8952527"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 08:00",
+    "WH": "31756100",
+    "VARH": "8952588"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 08:30",
+    "WH": "31756378",
+    "VARH": "8952640"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 09:00",
+    "WH": "31756650",
+    "VARH": "8952695"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 09:30",
+    "WH": "31756907",
+    "VARH": "8952755"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 10:00",
+    "WH": "31757150",
+    "VARH": "8952811"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 10:30",
+    "WH": "31757410",
+    "VARH": "8952865"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 11:00",
+    "WH": "31757677",
+    "VARH": "8952902"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 11:30",
+    "WH": "31757929",
+    "VARH": "8952954"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 12:00",
+    "WH": "31758173",
+    "VARH": "8953008"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 12:30",
+    "WH": "31758415",
+    "VARH": "8953061"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 13:00",
+    "WH": "31758671",
+    "VARH": "8953110"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 13:30",
+    "WH": "31758896",
+    "VARH": "8953153"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 14:00",
+    "WH": "31759163",
+    "VARH": "8953205"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 14:30",
+    "WH": "31759403",
+    "VARH": "8953250"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 15:00",
+    "WH": "31759637",
+    "VARH": "8953290"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 15:30",
+    "WH": "31759854",
+    "VARH": "8953333"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 16:00",
+    "WH": "31760050",
+    "VARH": "8953370"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 16:30",
+    "WH": "31760230",
+    "VARH": "8953396"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 17:00",
+    "WH": "31760421",
+    "VARH": "8953435"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 17:30",
+    "WH": "31760602",
+    "VARH": "8953471"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 18:00",
+    "WH": "31760768",
+    "VARH": "8953514"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 18:30",
+    "WH": "31760935",
+    "VARH": "8953559"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 19:00",
+    "WH": "31761095",
+    "VARH": "8953597"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 19:30",
+    "WH": "31761253",
+    "VARH": "8953621"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 20:00",
+    "WH": "31761410",
+    "VARH": "8953657"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 20:30",
+    "WH": "31761562",
+    "VARH": "8953692"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 21:00",
+    "WH": "31761712",
+    "VARH": "8953726"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 21:30",
+    "WH": "31761858",
+    "VARH": "8953767"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 22:00",
+    "WH": "31761996",
+    "VARH": "8953801"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 22:30",
+    "WH": "31762137",
+    "VARH": "8953830"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 23:00",
+    "WH": "31762281",
+    "VARH": "8953861"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "15/04/2020 23:30",
+    "WH": "31762420",
+    "VARH": "8953891"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 00:00",
+    "WH": "31762561",
+    "VARH": "8953925"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 00:30",
+    "WH": "31762702",
+    "VARH": "8953942"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 01:00",
+    "WH": "31762843",
+    "VARH": "8953972"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 01:30",
+    "WH": "31762982",
+    "VARH": "8954006"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 02:00",
+    "WH": "31763121",
+    "VARH": "8954039"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 02:30",
+    "WH": "31763261",
+    "VARH": "8954069"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 03:00",
+    "WH": "31763402",
+    "VARH": "8954094"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 03:30",
+    "WH": "31763540",
+    "VARH": "8954132"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 04:00",
+    "WH": "31763695",
+    "VARH": "8954153"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 04:30",
+    "WH": "31763940",
+    "VARH": "8954158"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 05:00",
+    "WH": "31764149",
+    "VARH": "8954172"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 05:30",
+    "WH": "31764409",
+    "VARH": "8954201"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 06:00",
+    "WH": "31764681",
+    "VARH": "8954260"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 06:30",
+    "WH": "31764943",
+    "VARH": "8954308"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 07:00",
+    "WH": "31765186",
+    "VARH": "8954363"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 07:30",
+    "WH": "31765425",
+    "VARH": "8954415"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 08:00",
+    "WH": "31765674",
+    "VARH": "8954474"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 08:30",
+    "WH": "31765929",
+    "VARH": "8954527"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 09:00",
+    "WH": "31766190",
+    "VARH": "8954572"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 09:30",
+    "WH": "31766452",
+    "VARH": "8954628"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 10:00",
+    "WH": "31766710",
+    "VARH": "8954684"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 10:30",
+    "WH": "31766983",
+    "VARH": "8954742"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 11:00",
+    "WH": "31767252",
+    "VARH": "8954801"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 11:30",
+    "WH": "31767529",
+    "VARH": "8954870"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 12:00",
+    "WH": "31767803",
+    "VARH": "8954933"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 12:30",
+    "WH": "31768072",
+    "VARH": "8955007"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 13:00",
+    "WH": "31768309",
+    "VARH": "8955067"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 13:30",
+    "WH": "31768571",
+    "VARH": "8955128"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 14:00",
+    "WH": "31768830",
+    "VARH": "8955195"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 14:30",
+    "WH": "31769091",
+    "VARH": "8955266"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 15:00",
+    "WH": "31769354",
+    "VARH": "8955335"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 15:30",
+    "WH": "31769592",
+    "VARH": "8955403"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 16:00",
+    "WH": "31769801",
+    "VARH": "8955465"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 16:30",
+    "WH": "31769988",
+    "VARH": "8955512"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 17:00",
+    "WH": "31770166",
+    "VARH": "8955562"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 17:30",
+    "WH": "31770332",
+    "VARH": "8955613"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 18:00",
+    "WH": "31770492",
+    "VARH": "8955663"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 18:30",
+    "WH": "31770659",
+    "VARH": "8955720"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 19:00",
+    "WH": "31770818",
+    "VARH": "8955772"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 19:30",
+    "WH": "31770963",
+    "VARH": "8955809"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 20:00",
+    "WH": "31771112",
+    "VARH": "8955848"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 20:30",
+    "WH": "31771264",
+    "VARH": "8955893"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 21:00",
+    "WH": "31771408",
+    "VARH": "8955930"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 21:30",
+    "WH": "31771552",
+    "VARH": "8955966"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 22:00",
+    "WH": "31771695",
+    "VARH": "8956002"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 22:30",
+    "WH": "31771834",
+    "VARH": "8956037"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 23:00",
+    "WH": "31771977",
+    "VARH": "8956084"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "16/04/2020 23:30",
+    "WH": "31772114",
+    "VARH": "8956118"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 00:00",
+    "WH": "31772254",
+    "VARH": "8956151"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 00:30",
+    "WH": "31772400",
+    "VARH": "8956190"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 01:00",
+    "WH": "31772539",
+    "VARH": "8956221"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 01:30",
+    "WH": "31772676",
+    "VARH": "8956246"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 02:00",
+    "WH": "31772817",
+    "VARH": "8956281"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 02:30",
+    "WH": "31772957",
+    "VARH": "8956313"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 03:00",
+    "WH": "31773098",
+    "VARH": "8956354"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 03:30",
+    "WH": "31773237",
+    "VARH": "8956387"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 04:00",
+    "WH": "31773382",
+    "VARH": "8956423"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 04:30",
+    "WH": "31773641",
+    "VARH": "8956443"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 05:00",
+    "WH": "31773860",
+    "VARH": "8956462"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 05:30",
+    "WH": "31774118",
+    "VARH": "8956491"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 06:00",
+    "WH": "31774387",
+    "VARH": "8956544"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 06:30",
+    "WH": "31774645",
+    "VARH": "8956590"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 07:00",
+    "WH": "31774908",
+    "VARH": "8956635"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 07:30",
+    "WH": "31775161",
+    "VARH": "8956673"
+  },
+  {
+    "﻿Serial": "METER000002",
+    "ReadingDateTimeUTC": "17/04/2020 08:00",
+    "WH": "",
+    "VARH": ""
+  }
+]
